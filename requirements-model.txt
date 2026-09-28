@@ -1,0 +1,4 @@
+-r requirements.txt
+remotezip>=0.12,<1
+requests>=2.32
+# Optional exports: install ONNX/TensorRT only for a validated target runtime.

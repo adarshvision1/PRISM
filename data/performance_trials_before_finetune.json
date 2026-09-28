@@ -1,0 +1,1353 @@
+{
+  "frames": [
+    0,
+    16,
+    269,
+    286,
+    540,
+    557,
+    810,
+    827,
+    1080,
+    1097,
+    1350,
+    1367,
+    1621,
+    1638,
+    1891,
+    1908,
+    2161,
+    2178,
+    2431,
+    2448,
+    2702,
+    2719,
+    2972,
+    2989,
+    3242,
+    3259,
+    3512,
+    3529,
+    3783,
+    3800,
+    4053,
+    4070
+  ],
+  "scope": "inference + PRISM grid; detection/I/O/render excluded",
+  "profiles": {
+    "reference": {
+      "config": {
+        "inference_batch_size": 8,
+        "input_points_per_block": 4096,
+        "far_points_per_block": null
+      },
+      "iou": [
+        0.6927476008343504,
+        0.6446958463599821,
+        0.9084185991925374,
+        0.763360557304767
+      ],
+      "miou": 0.7523056509229094,
+      "labeled_points": 3728178,
+      "near": {
+        "iou": [
+          0.6907976112519659,
+          0.6276952978548603,
+          0.8955116183071627,
+          0.7913672779558553
+        ],
+        "miou": 0.7513429513424611,
+        "labeled_points": 2305753
+      },
+      "mean": {
+        "preprocess_ms": 86.73930937516161,
+        "network_ms": 456.82817187321234,
+        "reassemble_ms": 136.3096656275502,
+        "inference_ms": 690.1922249999188,
+        "network_points": 380160.0,
+        "grid_ms": 75.25040312521014,
+        "pipeline_ms": 765.442628125129
+      },
+      "per_frame": [
+        {
+          "preprocess_ms": 130.216699995799,
+          "network_ms": 747.4891000092612,
+          "reassemble_ms": 179.22699998598546,
+          "inference_ms": 1070.12649999524,
+          "network_points": 638976,
+          "grid_ms": 93.92079999815905,
+          "pipeline_ms": 1164.047299993399
+        },
+        {
+          "preprocess_ms": 136.17080000403803,
+          "network_ms": 796.95480002556,
+          "reassemble_ms": 188.05909998627612,
+          "inference_ms": 1135.1928000003682,
+          "network_points": 667648,
+          "grid_ms": 79.60889999958454,
+          "pipeline_ms": 1214.8016999999527
+        },
+        {
+          "preprocess_ms": 100.58030000072904,
+          "network_ms": 567.1295999927679,
+          "reassemble_ms": 162.65980000753189,
+          "inference_ms": 842.394699997385,
+          "network_points": 475136,
+          "grid_ms": 82.38259999779984,
+          "pipeline_ms": 924.7772999951849
+        },
+        {
+          "preprocess_ms": 94.10270000080345,
+          "network_ms": 537.1297000019695,
+          "reassemble_ms": 145.74950002861442,
+          "inference_ms": 787.7032999967923,
+          "network_points": 466944,
+          "grid_ms": 77.8033000024152,
+          "pipeline_ms": 865.5065999992075
+        },
+        {
+          "preprocess_ms": 56.46799999522045,
+          "network_ms": 245.49929999921005,
+          "reassemble_ms": 101.0387999995146,
+          "inference_ms": 410.3328999990481,
+          "network_points": 208896,
+          "grid_ms": 65.62069999927189,
+          "pipeline_ms": 475.95359999832
+        },
+        {
+          "preprocess_ms": 50.147000001743436,
+          "network_ms": 209.98229998804163,
+          "reassemble_ms": 94.61190000001807,
+          "inference_ms": 362.0331999991322,
+          "network_points": 180224,
+          "grid_ms": 67.09789999877103,
+          "pipeline_ms": 429.1310999979032
+        },
+        {
+          "preprocess_ms": 80.23949999915203,
+          "network_ms": 406.75999998347834,
+          "reassemble_ms": 129.3913000044995,
+          "inference_ms": 625.4249999983585,
+          "network_points": 360448,
+          "grid_ms": 72.09149999835063,
+          "pipeline_ms": 697.5164999967092
+        },
+        {
+          "preprocess_ms": 55.65709999791579,
+          "network_ms": 242.2565000015311,
+          "reassemble_ms": 102.33390000212239,
+          "inference_ms": 408.03130000131205,
+          "network_points": 204800,
+          "grid_ms": 59.05730000085896,
+          "pipeline_ms": 467.088600002171
+        },
+        {
+          "preprocess_ms": 77.64269999461249,
+          "network_ms": 402.1402000071248,
+          "reassemble_ms": 127.30480000755051,
+          "inference_ms": 616.9233999971766,
+          "network_points": 360448,
+          "grid_ms": 80.96959999966202,
+          "pipeline_ms": 697.8929999968386
+        },
+        {
+          "preprocess_ms": 79.06970000476576,
+          "network_ms": 413.31410002021585,
+          "reassemble_ms": 124.46639998961473,
+          "inference_ms": 626.2761000034516,
+          "network_points": 348160,
+          "grid_ms": 73.5123000049498,
+          "pipeline_ms": 699.7884000084014
+        },
+        {
+          "preprocess_ms": 69.38369999988936,
+          "network_ms": 323.1819000066025,
+          "reassemble_ms": 113.86689999926602,
+          "inference_ms": 514.4801999995252,
+          "network_points": 290816,
+          "grid_ms": 71.7164000016055,
+          "pipeline_ms": 586.1966000011307
+        },
+        {
+          "preprocess_ms": 67.92159999895375,
+          "network_ms": 338.18130000145175,
+          "reassemble_ms": 126.26610000006622,
+          "inference_ms": 540.7348000007914,
+          "network_points": 290816,
+          "grid_ms": 70.77749999734806,
+          "pipeline_ms": 611.5122999981395
+        },
+        {
+          "preprocess_ms": 110.71780000202125,
+          "network_ms": 753.8145999860717,
+          "reassemble_ms": 199.86670001526363,
+          "inference_ms": 1080.4986000002827,
+          "network_points": 585728,
+          "grid_ms": 108.93149999901652,
+          "pipeline_ms": 1189.4300999992993
+        },
+        {
+          "preprocess_ms": 147.42630000546342,
+          "network_ms": 819.6649999808869,
+          "reassemble_ms": 198.1703000055859,
+          "inference_ms": 1183.9993000030518,
+          "network_points": 589824,
+          "grid_ms": 122.01790000108304,
+          "pipeline_ms": 1306.0172000041348
+        },
+        {
+          "preprocess_ms": 97.15700000379002,
+          "network_ms": 482.45290001068497,
+          "reassemble_ms": 144.06849999068072,
+          "inference_ms": 734.0541000012308,
+          "network_points": 401408,
+          "grid_ms": 79.16530000511557,
+          "pipeline_ms": 813.2194000063464
+        },
+        {
+          "preprocess_ms": 100.3943999967305,
+          "network_ms": 509.8279999947408,
+          "reassemble_ms": 149.29150001262315,
+          "inference_ms": 770.0925999961328,
+          "network_points": 438272,
+          "grid_ms": 80.89189999736845,
+          "pipeline_ms": 850.9844999935012
+        },
+        {
+          "preprocess_ms": 68.47560000460362,
+          "network_ms": 336.3757999977679,
+          "reassemble_ms": 117.48960000113584,
+          "inference_ms": 530.6185000008554,
+          "network_points": 278528,
+          "grid_ms": 72.68669999757549,
+          "pipeline_ms": 603.3051999984309
+        },
+        {
+          "preprocess_ms": 62.67919999663718,
+          "network_ms": 292.97609999775887,
+          "reassemble_ms": 112.61310001282254,
+          "inference_ms": 476.907599993865,
+          "network_points": 233472,
+          "grid_ms": 76.08829999662703,
+          "pipeline_ms": 552.995899990492
+        },
+        {
+          "preprocess_ms": 60.621199998422526,
+          "network_ms": 294.9172999942675,
+          "reassemble_ms": 116.67549999401672,
+          "inference_ms": 481.51099999813596,
+          "network_points": 233472,
+          "grid_ms": 56.338900001719594,
+          "pipeline_ms": 537.8498999998556
+        },
+        {
+          "preprocess_ms": 61.646400004974566,
+          "network_ms": 287.5465999968583,
+          "reassemble_ms": 109.69530000147643,
+          "inference_ms": 466.9008000055328,
+          "network_points": 245760,
+          "grid_ms": 73.61179999861633,
+          "pipeline_ms": 540.5126000041491
+        },
+        {
+          "preprocess_ms": 93.8393000033102,
+          "network_ms": 510.2664000005461,
+          "reassemble_ms": 140.7310999929905,
+          "inference_ms": 756.2238000027719,
+          "network_points": 438272,
+          "grid_ms": 74.2651000036858,
+          "pipeline_ms": 830.4889000064577
+        },
+        {
+          "preprocess_ms": 99.5309999998426,
+          "network_ms": 593.0165999889141,
+          "reassemble_ms": 156.44040000188397,
+          "inference_ms": 861.6219000032288,
+          "network_points": 475136,
+          "grid_ms": 78.50030000554398,
+          "pipeline_ms": 940.1222000087728
+        },
+        {
+          "preprocess_ms": 124.29969999357127,
+          "network_ms": 787.6169000010123,
+          "reassemble_ms": 180.89099999633618,
+          "inference_ms": 1106.898399993952,
+          "network_points": 606208,
+          "grid_ms": 79.67530000314582,
+          "pipeline_ms": 1186.5736999970977
+        },
+        {
+          "preprocess_ms": 117.84020000050077,
+          "network_ms": 652.740299985453,
+          "reassemble_ms": 157.9603000136558,
+          "inference_ms": 941.3140000033309,
+          "network_points": 544768,
+          "grid_ms": 65.69869999657385,
+          "pipeline_ms": 1007.0126999999047
+        },
+        {
+          "preprocess_ms": 72.4021999994875,
+          "network_ms": 337.2324000010849,
+          "reassemble_ms": 115.85599999671103,
+          "inference_ms": 533.7147000027471,
+          "network_points": 286720,
+          "grid_ms": 66.59040000522509,
+          "pipeline_ms": 600.3051000079722
+        },
+        {
+          "preprocess_ms": 81.84929999697488,
+          "network_ms": 444.5138999944902,
+          "reassemble_ms": 124.91809999482939,
+          "inference_ms": 661.2172000022838,
+          "network_points": 364544,
+          "grid_ms": 74.95849999395432,
+          "pipeline_ms": 736.1756999962381
+        },
+        {
+          "preprocess_ms": 65.84350000048289,
+          "network_ms": 294.3932999987737,
+          "reassemble_ms": 113.30520000774413,
+          "inference_ms": 481.6123999989941,
+          "network_points": 245760,
+          "grid_ms": 65.72770000639139,
+          "pipeline_ms": 547.3401000053855
+        },
+        {
+          "preprocess_ms": 56.358200003160164,
+          "network_ms": 246.1805999846547,
+          "reassemble_ms": 104.1888999970979,
+          "inference_ms": 413.76260000106413,
+          "network_points": 212992,
+          "grid_ms": 57.43500000244239,
+          "pipeline_ms": 471.1976000035065
+        },
+        {
+          "preprocess_ms": 60.94090000260621,
+          "network_ms": 291.42139999748906,
+          "reassemble_ms": 109.32150001463015,
+          "inference_ms": 470.1520000016899,
+          "network_points": 241664,
+          "grid_ms": 68.63499999599298,
+          "pipeline_ms": 538.7869999976829
+        },
+        {
+          "preprocess_ms": 61.651800002437085,
+          "network_ms": 267.1773999900324,
+          "reassemble_ms": 106.41050000413088,
+          "inference_ms": 442.8877000027569,
+          "network_points": 229376,
+          "grid_ms": 63.998500001616776,
+          "pipeline_ms": 506.8862000043737
+        },
+        {
+          "preprocess_ms": 136.20029999583494,
+          "network_ms": 652.5071999931242,
+          "reassemble_ms": 160.11900000739843,
+          "inference_ms": 961.3056999951368,
+          "network_points": 532480,
+          "grid_ms": 75.19779999711318,
+          "pipeline_ms": 1036.50349999225
+        },
+        {
+          "preprocess_ms": 98.18380000069737,
+          "network_ms": 533.8400000109687,
+          "reassemble_ms": 148.9213000095333,
+          "inference_ms": 791.204100001778,
+          "network_points": 487424,
+          "grid_ms": 73.03949999914039,
+          "pipeline_ms": 864.2436000009184
+        }
+      ],
+      "checkpoint": "0477455eae959ed28427e6da21c2228d30760611f44effee65d29ed4a2752e31",
+      "fps": 1.3064336414727706,
+      "miou_delta": 0.0,
+      "eligible": true
+    },
+    "batch16": {
+      "config": {
+        "inference_batch_size": 16,
+        "input_points_per_block": 4096,
+        "far_points_per_block": null
+      },
+      "iou": [
+        0.692739750491109,
+        0.644697433240584,
+        0.908427766095147,
+        0.7633932572186475
+      ],
+      "miou": 0.7523145517613719,
+      "labeled_points": 3728178,
+      "near": {
+        "iou": [
+          0.69078748530811,
+          0.6276974717124141,
+          0.8955269159718949,
+          0.7914151123256331
+        ],
+        "miou": 0.751356746329513,
+        "labeled_points": 2305753
+      },
+      "mean": {
+        "preprocess_ms": 83.89831875115306,
+        "network_ms": 337.5809156273135,
+        "reassemble_ms": 131.96466562339992,
+        "inference_ms": 563.8991250007166,
+        "network_points": 380160.0,
+        "grid_ms": 72.31143125045492,
+        "pipeline_ms": 636.2105562511715
+      },
+      "per_frame": [
+        {
+          "preprocess_ms": 121.02880000020377,
+          "network_ms": 554.1609999927459,
+          "reassemble_ms": 174.3563000127324,
+          "inference_ms": 865.9354999981588,
+          "network_points": 638976,
+          "grid_ms": 91.95670000190148,
+          "pipeline_ms": 957.8922000000603
+        },
+        {
+          "preprocess_ms": 131.48229999933392,
+          "network_ms": 609.9240000039572,
+          "reassemble_ms": 198.08430000557564,
+          "inference_ms": 956.1326999973971,
+          "network_points": 667648,
+          "grid_ms": 85.20239999779733,
+          "pipeline_ms": 1041.3350999951945
+        },
+        {
+          "preprocess_ms": 99.47839999949792,
+          "network_ms": 414.52810000191675,
+          "reassemble_ms": 143.96429999760585,
+          "inference_ms": 669.5466000019223,
+          "network_points": 475136,
+          "grid_ms": 86.88230000552721,
+          "pipeline_ms": 756.4289000074496
+        },
+        {
+          "preprocess_ms": 97.87830000277609,
+          "network_ms": 416.1265000075218,
+          "reassemble_ms": 145.0069999846164,
+          "inference_ms": 671.0081999990507,
+          "network_points": 466944,
+          "grid_ms": 83.53340000030585,
+          "pipeline_ms": 754.5415999993565
+        },
+        {
+          "preprocess_ms": 56.94059999950696,
+          "network_ms": 187.6789000016288,
+          "reassemble_ms": 101.18399999919347,
+          "inference_ms": 353.59430000244174,
+          "network_points": 208896,
+          "grid_ms": 68.81699999939883,
+          "pipeline_ms": 422.4113000018406
+        },
+        {
+          "preprocess_ms": 59.25930000375956,
+          "network_ms": 156.20360000320943,
+          "reassemble_ms": 92.75079999497393,
+          "inference_ms": 315.4426000037347,
+          "network_points": 180224,
+          "grid_ms": 64.18269999994664,
+          "pipeline_ms": 379.62530000368133
+        },
+        {
+          "preprocess_ms": 79.69459999731043,
+          "network_ms": 308.8562000048114,
+          "reassemble_ms": 129.33080000948394,
+          "inference_ms": 528.0248999988544,
+          "network_points": 360448,
+          "grid_ms": 78.31639999494655,
+          "pipeline_ms": 606.3412999938009
+        },
+        {
+          "preprocess_ms": 55.21669999870937,
+          "network_ms": 193.16370000888128,
+          "reassemble_ms": 102.21270000329241,
+          "inference_ms": 359.323000004224,
+          "network_points": 204800,
+          "grid_ms": 71.04260000050999,
+          "pipeline_ms": 430.365600004734
+        },
+        {
+          "preprocess_ms": 95.33570000348845,
+          "network_ms": 320.06210001418367,
+          "reassemble_ms": 129.43629999062978,
+          "inference_ms": 554.9545000030776,
+          "network_points": 360448,
+          "grid_ms": 81.84110000001965,
+          "pipeline_ms": 636.7956000030972
+        },
+        {
+          "preprocess_ms": 76.38760000554612,
+          "network_ms": 308.2343000060064,
+          "reassemble_ms": 122.62739997822791,
+          "inference_ms": 516.9467000014265,
+          "network_points": 348160,
+          "grid_ms": 77.1701000048779,
+          "pipeline_ms": 594.1168000063044
+        },
+        {
+          "preprocess_ms": 67.92290000157664,
+          "network_ms": 256.23390001419466,
+          "reassemble_ms": 114.71210000308929,
+          "inference_ms": 448.0805000057444,
+          "network_points": 290816,
+          "grid_ms": 74.92059999640333,
+          "pipeline_ms": 523.0011000021477
+        },
+        {
+          "preprocess_ms": 69.24340000114171,
+          "network_ms": 255.24220000079367,
+          "reassemble_ms": 114.91569999634521,
+          "inference_ms": 448.34139999875333,
+          "network_points": 290816,
+          "grid_ms": 73.97040000068955,
+          "pipeline_ms": 522.3117999994429
+        },
+        {
+          "preprocess_ms": 112.90430000371998,
+          "network_ms": 492.96809999941615,
+          "reassemble_ms": 160.43239998543868,
+          "inference_ms": 779.4228999991901,
+          "network_points": 585728,
+          "grid_ms": 81.79050000035204,
+          "pipeline_ms": 861.2133999995422
+        },
+        {
+          "preprocess_ms": 115.49969999759924,
+          "network_ms": 517.5872999898274,
+          "reassemble_ms": 170.83419999835314,
+          "inference_ms": 819.3691999986186,
+          "network_points": 589824,
+          "grid_ms": 87.9376000011689,
+          "pipeline_ms": 907.3067999997875
+        },
+        {
+          "preprocess_ms": 86.05740000348305,
+          "network_ms": 371.1615999927744,
+          "reassemble_ms": 137.09060000110185,
+          "inference_ms": 606.1165999999503,
+          "network_points": 401408,
+          "grid_ms": 75.9604999984731,
+          "pipeline_ms": 682.0770999984234
+        },
+        {
+          "preprocess_ms": 93.19410000171047,
+          "network_ms": 382.50560000597034,
+          "reassemble_ms": 137.67729999381118,
+          "inference_ms": 624.746800000139,
+          "network_points": 438272,
+          "grid_ms": 74.50370000151452,
+          "pipeline_ms": 699.2505000016536
+        },
+        {
+          "preprocess_ms": 68.32500000018626,
+          "network_ms": 252.78599999728613,
+          "reassemble_ms": 115.67500000819564,
+          "inference_ms": 445.5242999974871,
+          "network_points": 278528,
+          "grid_ms": 71.13519999984419,
+          "pipeline_ms": 516.6594999973313
+        },
+        {
+          "preprocess_ms": 60.08330000622664,
+          "network_ms": 206.03870000923052,
+          "reassemble_ms": 101.64269999950193,
+          "inference_ms": 376.15500000538304,
+          "network_points": 233472,
+          "grid_ms": 67.74270000460092,
+          "pipeline_ms": 443.89770000998396
+        },
+        {
+          "preprocess_ms": 60.345799996866845,
+          "network_ms": 201.38860000588465,
+          "reassemble_ms": 106.13949999969918,
+          "inference_ms": 375.56409999524476,
+          "network_points": 233472,
+          "grid_ms": 54.98809999699006,
+          "pipeline_ms": 430.5521999922348
+        },
+        {
+          "preprocess_ms": 60.739799999282695,
+          "network_ms": 211.7746000076295,
+          "reassemble_ms": 108.57769999711309,
+          "inference_ms": 389.6466000005603,
+          "network_points": 245760,
+          "grid_ms": 53.713499997684266,
+          "pipeline_ms": 443.36009999824455
+        },
+        {
+          "preprocess_ms": 90.94290000211913,
+          "network_ms": 394.1222000066773,
+          "reassemble_ms": 138.321000013093,
+          "inference_ms": 634.7733000002336,
+          "network_points": 438272,
+          "grid_ms": 89.57039999950211,
+          "pipeline_ms": 724.3436999997357
+        },
+        {
+          "preprocess_ms": 107.8471000000718,
+          "network_ms": 412.80280001228675,
+          "reassemble_ms": 140.87199998903088,
+          "inference_ms": 672.4983000021894,
+          "network_points": 475136,
+          "grid_ms": 70.81370000378229,
+          "pipeline_ms": 743.3120000059716
+        },
+        {
+          "preprocess_ms": 117.62520000047516,
+          "network_ms": 542.3861000017496,
+          "reassemble_ms": 160.04970000358298,
+          "inference_ms": 832.9737000021851,
+          "network_points": 606208,
+          "grid_ms": 68.23979999899166,
+          "pipeline_ms": 901.2135000011767
+        },
+        {
+          "preprocess_ms": 102.40930000145454,
+          "network_ms": 495.0501999919652,
+          "reassemble_ms": 161.15519998857053,
+          "inference_ms": 770.9153000032529,
+          "network_points": 544768,
+          "grid_ms": 61.62939999921946,
+          "pipeline_ms": 832.5447000024724
+        },
+        {
+          "preprocess_ms": 66.97260000510141,
+          "network_ms": 254.2027000017697,
+          "reassemble_ms": 110.79109999991488,
+          "inference_ms": 440.1907999999821,
+          "network_points": 286720,
+          "grid_ms": 63.46769999800017,
+          "pipeline_ms": 503.6584999979823
+        },
+        {
+          "preprocess_ms": 77.05069999792613,
+          "network_ms": 320.49669998377794,
+          "reassemble_ms": 121.57809999916935,
+          "inference_ms": 528.457200001867,
+          "network_points": 364544,
+          "grid_ms": 65.65450000198325,
+          "pipeline_ms": 594.1117000038503
+        },
+        {
+          "preprocess_ms": 61.88430000474909,
+          "network_ms": 208.84370000567287,
+          "reassemble_ms": 106.45909999584546,
+          "inference_ms": 385.00590000330703,
+          "network_points": 245760,
+          "grid_ms": 63.381600004504435,
+          "pipeline_ms": 448.38750000781147
+        },
+        {
+          "preprocess_ms": 54.71360000228742,
+          "network_ms": 192.6679000025615,
+          "reassemble_ms": 104.32759999093832,
+          "inference_ms": 359.09170000377344,
+          "network_points": 212992,
+          "grid_ms": 54.456300000310875,
+          "pipeline_ms": 413.5480000040843
+        },
+        {
+          "preprocess_ms": 59.40749999717809,
+          "network_ms": 207.35270000295714,
+          "reassemble_ms": 105.01629998907447,
+          "inference_ms": 379.5738999979221,
+          "network_points": 241664,
+          "grid_ms": 64.34479999734322,
+          "pipeline_ms": 443.91869999526534
+        },
+        {
+          "preprocess_ms": 57.294300000648946,
+          "network_ms": 214.24880000267876,
+          "reassemble_ms": 127.06220000836765,
+          "inference_ms": 407.23569999681786,
+          "network_points": 229376,
+          "grid_ms": 68.2678000011947,
+          "pipeline_ms": 475.50349999801256
+        },
+        {
+          "preprocess_ms": 126.30309999804012,
+          "network_ms": 475.41139999520965,
+          "reassemble_ms": 157.89230000518728,
+          "inference_ms": 771.7111999954795,
+          "network_points": 532480,
+          "grid_ms": 69.93100000545382,
+          "pipeline_ms": 841.6422000009334
+        },
+        {
+          "preprocess_ms": 95.2776000049198,
+          "network_ms": 468.37909999885596,
+          "reassemble_ms": 182.69360000704182,
+          "inference_ms": 758.4686000045622,
+          "network_points": 487424,
+          "grid_ms": 68.60130000131903,
+          "pipeline_ms": 827.0699000058812
+        }
+      ],
+      "checkpoint": "0477455eae959ed28427e6da21c2228d30760611f44effee65d29ed4a2752e31",
+      "fps": 1.5718066765387133,
+      "miou_delta": 8.900838462500005e-06,
+      "eligible": true
+    },
+    "foveated1024": {
+      "config": {
+        "inference_batch_size": 16,
+        "input_points_per_block": 4096,
+        "far_points_per_block": 1024
+      },
+      "iou": [
+        0.6947453139805014,
+        0.6496769485145348,
+        0.907137007223333,
+        0.7575381127332211
+      ],
+      "miou": 0.7522743456128976,
+      "labeled_points": 3728178,
+      "near": {
+        "iou": [
+          0.6934193664933584,
+          0.6342091448051186,
+          0.8909420250555887,
+          0.7814710648508835
+        ],
+        "miou": 0.7500104003012373,
+        "labeled_points": 2305753
+      },
+      "mean": {
+        "preprocess_ms": 55.49399374967834,
+        "network_ms": 237.12542187558938,
+        "reassemble_ms": 101.31330624744805,
+        "inference_ms": 401.14605312487583,
+        "network_points": 179520.0,
+        "grid_ms": 68.81461250031862,
+        "pipeline_ms": 469.96066562519445
+      },
+      "per_frame": [
+        {
+          "preprocess_ms": 84.28249999997206,
+          "network_ms": 366.3873999903444,
+          "reassemble_ms": 116.87049999454757,
+          "inference_ms": 576.2109999996028,
+          "network_points": 258048,
+          "grid_ms": 78.43169999978272,
+          "pipeline_ms": 654.6426999993855
+        },
+        {
+          "preprocess_ms": 70.64790000003995,
+          "network_ms": 375.1799000092433,
+          "reassemble_ms": 116.38209999364335,
+          "inference_ms": 570.7782000026782,
+          "network_points": 265216,
+          "grid_ms": 74.51460000447696,
+          "pipeline_ms": 645.2928000071552
+        },
+        {
+          "preprocess_ms": 68.82890000269981,
+          "network_ms": 302.28629999328405,
+          "reassemble_ms": 120.91980000695912,
+          "inference_ms": 499.85000000015134,
+          "network_points": 204800,
+          "grid_ms": 76.67270000092685,
+          "pipeline_ms": 576.5227000010782
+        },
+        {
+          "preprocess_ms": 58.40530000568833,
+          "network_ms": 315.7147999954759,
+          "reassemble_ms": 106.91369999403832,
+          "inference_ms": 489.01560000376776,
+          "network_points": 205824,
+          "grid_ms": 81.11950000602519,
+          "pipeline_ms": 570.135100009793
+        },
+        {
+          "preprocess_ms": 43.08479999599513,
+          "network_ms": 153.8894999976037,
+          "reassemble_ms": 87.61239999876125,
+          "inference_ms": 290.76619999977993,
+          "network_points": 116736,
+          "grid_ms": 66.80639999831328,
+          "pipeline_ms": 357.5725999980932
+        },
+        {
+          "preprocess_ms": 40.05509999842616,
+          "network_ms": 140.1731999940239,
+          "reassemble_ms": 82.51550001295982,
+          "inference_ms": 268.8292000020738,
+          "network_points": 106496,
+          "grid_ms": 63.9595000029658,
+          "pipeline_ms": 332.7887000050396
+        },
+        {
+          "preprocess_ms": 53.92099999880884,
+          "network_ms": 225.34449999511708,
+          "reassemble_ms": 100.17900000093505,
+          "inference_ms": 386.7361000011442,
+          "network_points": 182272,
+          "grid_ms": 71.3395999991917,
+          "pipeline_ms": 458.0757000003359
+        },
+        {
+          "preprocess_ms": 41.439799999352545,
+          "network_ms": 142.23010001296643,
+          "reassemble_ms": 85.72950000234414,
+          "inference_ms": 275.5159999942407,
+          "network_points": 115712,
+          "grid_ms": 59.280699999362696,
+          "pipeline_ms": 334.7966999936034
+        },
+        {
+          "preprocess_ms": 53.677500000048894,
+          "network_ms": 220.67129999777535,
+          "reassemble_ms": 98.30199999123579,
+          "inference_ms": 379.6418999991147,
+          "network_points": 182272,
+          "grid_ms": 82.78460000292398,
+          "pipeline_ms": 462.42650000203867
+        },
+        {
+          "preprocess_ms": 64.01819999882719,
+          "network_ms": 235.6389999986277,
+          "reassemble_ms": 122.62470000860048,
+          "inference_ms": 430.56369999976596,
+          "network_points": 173056,
+          "grid_ms": 78.08500000101048,
+          "pipeline_ms": 508.64870000077644
+        },
+        {
+          "preprocess_ms": 51.589599999715574,
+          "network_ms": 186.08500000846107,
+          "reassemble_ms": 93.91959999629762,
+          "inference_ms": 338.33449999656295,
+          "network_points": 158720,
+          "grid_ms": 67.40029999491526,
+          "pipeline_ms": 405.7347999914782
+        },
+        {
+          "preprocess_ms": 50.35630000202218,
+          "network_ms": 188.96450000465848,
+          "reassemble_ms": 97.77759998542024,
+          "inference_ms": 343.8372000018717,
+          "network_points": 161792,
+          "grid_ms": 67.01450000400655,
+          "pipeline_ms": 410.85170000587823
+        },
+        {
+          "preprocess_ms": 64.00630000280216,
+          "network_ms": 315.67059999360936,
+          "reassemble_ms": 111.93579999962822,
+          "inference_ms": 499.6792000019923,
+          "network_points": 241664,
+          "grid_ms": 76.16059999418212,
+          "pipeline_ms": 575.8397999961744
+        },
+        {
+          "preprocess_ms": 65.70490000012796,
+          "network_ms": 371.8605999965803,
+          "reassemble_ms": 134.6509999857517,
+          "inference_ms": 581.3696999975946,
+          "network_points": 242688,
+          "grid_ms": 87.4889999977313,
+          "pipeline_ms": 668.8586999953259
+        },
+        {
+          "preprocess_ms": 64.85979999706615,
+          "network_ms": 255.8863999947789,
+          "reassemble_ms": 102.27180000947556,
+          "inference_ms": 430.33859999559354,
+          "network_points": 186368,
+          "grid_ms": 68.1023999932222,
+          "pipeline_ms": 498.44099998881575
+        },
+        {
+          "preprocess_ms": 57.616300000518095,
+          "network_ms": 249.7880000155419,
+          "reassemble_ms": 101.95330001442926,
+          "inference_ms": 416.61750000639586,
+          "network_points": 198656,
+          "grid_ms": 66.77919999492588,
+          "pipeline_ms": 483.39670000132173
+        },
+        {
+          "preprocess_ms": 47.43629999575205,
+          "network_ms": 181.15050000778865,
+          "reassemble_ms": 93.10619999450864,
+          "inference_ms": 328.38669999910053,
+          "network_points": 152576,
+          "grid_ms": 66.56619999557734,
+          "pipeline_ms": 394.95289999467786
+        },
+        {
+          "preprocess_ms": 44.74159999517724,
+          "network_ms": 169.54790001182118,
+          "reassemble_ms": 90.3414999920642,
+          "inference_ms": 310.9898999973666,
+          "network_points": 132096,
+          "grid_ms": 61.20060000102967,
+          "pipeline_ms": 372.19049999839626
+        },
+        {
+          "preprocess_ms": 43.75330000038957,
+          "network_ms": 152.0678999950178,
+          "reassemble_ms": 92.95349999592872,
+          "inference_ms": 294.7981000033906,
+          "network_points": 135168,
+          "grid_ms": 51.7522000009194,
+          "pipeline_ms": 346.55030000431
+        },
+        {
+          "preprocess_ms": 44.417700002668425,
+          "network_ms": 187.0061000008718,
+          "reassemble_ms": 91.79089999815915,
+          "inference_ms": 329.54740000423044,
+          "network_points": 141312,
+          "grid_ms": 54.028300000936724,
+          "pipeline_ms": 383.57570000516716
+        },
+        {
+          "preprocess_ms": 56.680399997276254,
+          "network_ms": 253.5772000119323,
+          "reassemble_ms": 101.03430000162916,
+          "inference_ms": 418.5007999985828,
+          "network_points": 195584,
+          "grid_ms": 67.5245999955223,
+          "pipeline_ms": 486.0253999941051
+        },
+        {
+          "preprocess_ms": 58.30479999713134,
+          "network_ms": 277.4773000055575,
+          "reassemble_ms": 103.47330000513466,
+          "inference_ms": 447.2265999938827,
+          "network_points": 201728,
+          "grid_ms": 72.19480000640033,
+          "pipeline_ms": 519.421400000283
+        },
+        {
+          "preprocess_ms": 71.84390000475105,
+          "network_ms": 343.844099996204,
+          "reassemble_ms": 108.91119999723742,
+          "inference_ms": 532.8115000011167,
+          "network_points": 246784,
+          "grid_ms": 69.01199999992969,
+          "pipeline_ms": 601.8235000010463
+        },
+        {
+          "preprocess_ms": 60.46459999924991,
+          "network_ms": 311.25289999909,
+          "reassemble_ms": 102.67729999031872,
+          "inference_ms": 481.9290000014007,
+          "network_points": 228352,
+          "grid_ms": 59.53900000167778,
+          "pipeline_ms": 541.4680000030785
+        },
+        {
+          "preprocess_ms": 47.347899999294896,
+          "network_ms": 180.2114000020083,
+          "reassemble_ms": 91.16940000239993,
+          "inference_ms": 325.1243999984581,
+          "network_points": 148480,
+          "grid_ms": 62.353900000744034,
+          "pipeline_ms": 387.47829999920214
+        },
+        {
+          "preprocess_ms": 53.455299996130634,
+          "network_ms": 220.0808999914443,
+          "reassemble_ms": 98.55049999168841,
+          "inference_ms": 379.11259999964386,
+          "network_points": 183296,
+          "grid_ms": 66.92970000585774,
+          "pipeline_ms": 446.0423000055016
+        },
+        {
+          "preprocess_ms": 45.830199996999,
+          "network_ms": 175.76449999614852,
+          "reassemble_ms": 92.07959999912418,
+          "inference_ms": 320.4420999973081,
+          "network_points": 144384,
+          "grid_ms": 64.0927999993437,
+          "pipeline_ms": 384.5348999966518
+        },
+        {
+          "preprocess_ms": 43.549300004087854,
+          "network_ms": 148.7591000040993,
+          "reassemble_ms": 91.99429998989217,
+          "inference_ms": 290.67870000289986,
+          "network_points": 126976,
+          "grid_ms": 62.37210000108462,
+          "pipeline_ms": 353.0508000039845
+        },
+        {
+          "preprocess_ms": 51.58769999979995,
+          "network_ms": 175.72259999724338,
+          "reassemble_ms": 90.61429999565007,
+          "inference_ms": 324.47749999846565,
+          "network_points": 140288,
+          "grid_ms": 64.09790000179783,
+          "pipeline_ms": 388.57540000026347
+        },
+        {
+          "preprocess_ms": 43.62460000265855,
+          "network_ms": 169.02789999585366,
+          "reassemble_ms": 90.71219998440938,
+          "inference_ms": 309.8461999979918,
+          "network_points": 128000,
+          "grid_ms": 60.86030000005849,
+          "pipeline_ms": 370.7064999980503
+        },
+        {
+          "preprocess_ms": 65.1265999986208,
+          "network_ms": 317.82279999606544,
+          "reassemble_ms": 117.3999999955413,
+          "inference_ms": 508.28159999946365,
+          "network_points": 225280,
+          "grid_ms": 82.38460000575287,
+          "pipeline_ms": 590.6662000052165
+        },
+        {
+          "preprocess_ms": 65.14939999760827,
+          "network_ms": 278.92930000962224,
+          "reassemble_ms": 104.65899998962414,
+          "inference_ms": 456.4360000003944,
+          "network_points": 214016,
+          "grid_ms": 71.21829999960028,
+          "pipeline_ms": 527.6542999999947
+        }
+      ],
+      "checkpoint": "0477455eae959ed28427e6da21c2228d30760611f44effee65d29ed4a2752e31",
+      "fps": 2.127837653539978,
+      "miou_delta": -3.130531001171999e-05,
+      "eligible": true
+    },
+    "compact2048": {
+      "config": {
+        "inference_batch_size": 16,
+        "input_points_per_block": 2048,
+        "far_points_per_block": 1024
+      },
+      "iou": [
+        0.6999776234457019,
+        0.6507590018101981,
+        0.9088841555003012,
+        0.7519626091398576
+      ],
+      "miou": 0.7528958474740146,
+      "labeled_points": 3728178,
+      "near": {
+        "iou": [
+          0.7011675786235235,
+          0.6407001717920922,
+          0.8948928504661283,
+          0.7791408137166674
+        ],
+        "miou": 0.7539753536496028,
+        "labeled_points": 2305753
+      },
+      "mean": {
+        "preprocess_ms": 48.428806249376066,
+        "network_ms": 211.5110312508932,
+        "reassemble_ms": 87.485446875462,
+        "inference_ms": 354.09363749863587,
+        "network_points": 123200.0,
+        "grid_ms": 74.06494999986535,
+        "pipeline_ms": 428.1585874985012
+      },
+      "per_frame": [
+        {
+          "preprocess_ms": 74.32230000267737,
+          "network_ms": 350.51339998608455,
+          "reassemble_ms": 105.60809999878984,
+          "inference_ms": 538.1477000046289,
+          "network_points": 192512,
+          "grid_ms": 90.30080000229646,
+          "pipeline_ms": 628.4485000069253
+        },
+        {
+          "preprocess_ms": 62.396600005740765,
+          "network_ms": 336.36330000445014,
+          "reassemble_ms": 100.95999998884508,
+          "inference_ms": 507.025099999737,
+          "network_points": 199680,
+          "grid_ms": 88.9510999986669,
+          "pipeline_ms": 595.9761999984039
+        },
+        {
+          "preprocess_ms": 51.41359999834094,
+          "network_ms": 266.13120000547497,
+          "reassemble_ms": 94.91819999675499,
+          "inference_ms": 419.75779999484075,
+          "network_points": 147456,
+          "grid_ms": 94.53519999806304,
+          "pipeline_ms": 514.2929999929038
+        },
+        {
+          "preprocess_ms": 54.720399995858315,
+          "network_ms": 248.5681999969529,
+          "reassemble_ms": 90.69580000505084,
+          "inference_ms": 400.6684999985737,
+          "network_points": 146432,
+          "grid_ms": 82.2587000002386,
+          "pipeline_ms": 482.9271999988123
+        },
+        {
+          "preprocess_ms": 38.013799996406306,
+          "network_ms": 122.43000001035398,
+          "reassemble_ms": 75.96499999635853,
+          "inference_ms": 242.19939999602502,
+          "network_points": 73728,
+          "grid_ms": 68.4213999993517,
+          "pipeline_ms": 310.62079999537673
+        },
+        {
+          "preprocess_ms": 36.721600001328625,
+          "network_ms": 124.59920000401326,
+          "reassemble_ms": 76.97280000866158,
+          "inference_ms": 243.90309999580495,
+          "network_points": 65536,
+          "grid_ms": 68.11790000210749,
+          "pipeline_ms": 312.02099999791244
+        },
+        {
+          "preprocess_ms": 47.61310000321828,
+          "network_ms": 206.15949999773875,
+          "reassemble_ms": 85.70049999980256,
+          "inference_ms": 346.2537000013981,
+          "network_points": 120832,
+          "grid_ms": 73.36960000247927,
+          "pipeline_ms": 419.6233000038774
+        },
+        {
+          "preprocess_ms": 38.39870000228984,
+          "network_ms": 122.18489999941085,
+          "reassemble_ms": 75.44510000298033,
+          "inference_ms": 241.66369999875315,
+          "network_points": 72704,
+          "grid_ms": 60.10219999734545,
+          "pipeline_ms": 301.7658999960986
+        },
+        {
+          "preprocess_ms": 47.79370000323979,
+          "network_ms": 202.70490000984864,
+          "reassemble_ms": 86.31480000622105,
+          "inference_ms": 343.85679999832064,
+          "network_points": 120832,
+          "grid_ms": 90.6087999974261,
+          "pipeline_ms": 434.46559999574674
+        },
+        {
+          "preprocess_ms": 45.06089999631513,
+          "network_ms": 199.39999999041902,
+          "reassemble_ms": 92.52409999317024,
+          "inference_ms": 345.2649999962887,
+          "network_points": 115712,
+          "grid_ms": 97.9970999978832,
+          "pipeline_ms": 443.2620999941719
+        },
+        {
+          "preprocess_ms": 49.80000000068685,
+          "network_ms": 181.49470001662849,
+          "reassemble_ms": 86.36770000157412,
+          "inference_ms": 326.0653000033926,
+          "network_points": 101376,
+          "grid_ms": 81.30130000063218,
+          "pipeline_ms": 407.3666000040248
+        },
+        {
+          "preprocess_ms": 44.49629999726312,
+          "network_ms": 159.9388999893563,
+          "reassemble_ms": 82.07349999429425,
+          "inference_ms": 292.7006999962032,
+          "network_points": 102400,
+          "grid_ms": 72.39259999914793,
+          "pipeline_ms": 365.0932999953511
+        },
+        {
+          "preprocess_ms": 59.14469999697758,
+          "network_ms": 293.34730000118725,
+          "reassemble_ms": 97.03560000343714,
+          "inference_ms": 456.91359999909764,
+          "network_points": 178176,
+          "grid_ms": 81.78330000373535,
+          "pipeline_ms": 538.696900002833
+        },
+        {
+          "preprocess_ms": 57.09690000367118,
+          "network_ms": 305.4936999833444,
+          "reassemble_ms": 95.0953999927151,
+          "inference_ms": 464.89370000199415,
+          "network_points": 179200,
+          "grid_ms": 100.29170000052545,
+          "pipeline_ms": 565.1854000025196
+        },
+        {
+          "preprocess_ms": 58.80539999634493,
+          "network_ms": 224.8917000106303,
+          "reassemble_ms": 91.84560000721831,
+          "inference_ms": 382.17279999662424,
+          "network_points": 129024,
+          "grid_ms": 76.0431000016979,
+          "pipeline_ms": 458.21589999832213
+        },
+        {
+          "preprocess_ms": 51.58809999556979,
+          "network_ms": 248.6644999953569,
+          "reassemble_ms": 90.69330001511844,
+          "inference_ms": 399.90779999789083,
+          "network_points": 139264,
+          "grid_ms": 76.84909999807132,
+          "pipeline_ms": 476.75689999596216
+        },
+        {
+          "preprocess_ms": 44.424800005799625,
+          "network_ms": 158.60570000950247,
+          "reassemble_ms": 81.12579999578884,
+          "inference_ms": 290.25820000242675,
+          "network_points": 97280,
+          "grid_ms": 70.75809999514604,
+          "pipeline_ms": 361.0162999975728
+        },
+        {
+          "preprocess_ms": 40.041100000962615,
+          "network_ms": 171.07869999745162,
+          "reassemble_ms": 78.94270001270343,
+          "inference_ms": 296.1076999999932,
+          "network_points": 82944,
+          "grid_ms": 64.47349999507423,
+          "pipeline_ms": 360.58119999506744
+        },
+        {
+          "preprocess_ms": 38.51460000441875,
+          "network_ms": 133.21300000097835,
+          "reassemble_ms": 81.59159999195253,
+          "inference_ms": 259.20269999915035,
+          "network_points": 83968,
+          "grid_ms": 55.968799999391194,
+          "pipeline_ms": 315.17149999854155
+        },
+        {
+          "preprocess_ms": 38.859700005559716,
+          "network_ms": 149.82850000524195,
+          "reassemble_ms": 76.17450000543613,
+          "inference_ms": 270.3604000053019,
+          "network_points": 88064,
+          "grid_ms": 52.53060000541154,
+          "pipeline_ms": 322.89100001071347
+        },
+        {
+          "preprocess_ms": 48.61759999766946,
+          "network_ms": 221.62530001514824,
+          "reassemble_ms": 85.54209999419982,
+          "inference_ms": 362.2198999946704,
+          "network_points": 138240,
+          "grid_ms": 69.43979999778094,
+          "pipeline_ms": 431.65969999245135
+        },
+        {
+          "preprocess_ms": 55.36259999644244,
+          "network_ms": 259.2808999834233,
+          "reassemble_ms": 91.75450001930585,
+          "inference_ms": 413.14219999912893,
+          "network_points": 146432,
+          "grid_ms": 70.20129999727942,
+          "pipeline_ms": 483.34349999640835
+        },
+        {
+          "preprocess_ms": 57.437199997366406,
+          "network_ms": 307.50130000524223,
+          "reassemble_ms": 92.9028999817092,
+          "inference_ms": 464.70050000061747,
+          "network_points": 183296,
+          "grid_ms": 67.40219999483088,
+          "pipeline_ms": 532.1026999954483
+        },
+        {
+          "preprocess_ms": 52.41250000108266,
+          "network_ms": 283.1735999934608,
+          "reassemble_ms": 97.35389999696054,
+          "inference_ms": 439.4118000054732,
+          "network_points": 166912,
+          "grid_ms": 60.611300003074575,
+          "pipeline_ms": 500.0231000085478
+        },
+        {
+          "preprocess_ms": 41.46219999529421,
+          "network_ms": 154.08400000887923,
+          "reassemble_ms": 79.49529999314109,
+          "inference_ms": 280.74399999604793,
+          "network_points": 97280,
+          "grid_ms": 63.66859999980079,
+          "pipeline_ms": 344.4125999958487
+        },
+        {
+          "preprocess_ms": 44.444599996495526,
+          "network_ms": 192.61630000255536,
+          "reassemble_ms": 83.61350001359824,
+          "inference_ms": 326.7861999993329,
+          "network_points": 121856,
+          "grid_ms": 71.99350000155391,
+          "pipeline_ms": 398.7797000008868
+        },
+        {
+          "preprocess_ms": 41.45159999461612,
+          "network_ms": 164.28350000205683,
+          "reassemble_ms": 80.11939999414608,
+          "inference_ms": 292.0403999960399,
+          "network_points": 89088,
+          "grid_ms": 64.77230000018608,
+          "pipeline_ms": 356.812699996226
+        },
+        {
+          "preprocess_ms": 41.40029999689432,
+          "network_ms": 143.8760000091861,
+          "reassemble_ms": 97.15460000006715,
+          "inference_ms": 289.20819999621017,
+          "network_points": 77824,
+          "grid_ms": 63.18089999695076,
+          "pipeline_ms": 352.3890999931609
+        },
+        {
+          "preprocess_ms": 44.1900000005262,
+          "network_ms": 158.07069999573287,
+          "reassemble_ms": 79.87620000494644,
+          "inference_ms": 288.15519999625394,
+          "network_points": 87040,
+          "grid_ms": 68.07860000117216,
+          "pipeline_ms": 356.2337999974261
+        },
+        {
+          "preprocess_ms": 38.594499994360376,
+          "network_ms": 144.94529999501538,
+          "reassemble_ms": 77.23619999887887,
+          "inference_ms": 266.45949999510776,
+          "network_points": 80896,
+          "grid_ms": 61.797000002115965,
+          "pipeline_ms": 328.2564999972237
+        },
+        {
+          "preprocess_ms": 55.66839999664808,
+          "network_ms": 282.3761999970884,
+          "reassemble_ms": 98.68000000278698,
+          "inference_ms": 443.93859999399865,
+          "network_points": 163840,
+          "grid_ms": 85.85970000422094,
+          "pipeline_ms": 529.7982999982196
+        },
+        {
+          "preprocess_ms": 49.4539999999688,
+          "network_ms": 250.90860000636894,
+          "reassemble_ms": 89.75559999817051,
+          "inference_ms": 396.8661999970209,
+          "network_points": 152576,
+          "grid_ms": 76.01830000203336,
+          "pipeline_ms": 472.88449999905424
+        }
+      ],
+      "checkpoint": "0477455eae959ed28427e6da21c2228d30760611f44effee65d29ed4a2752e31",
+      "fps": 2.3355831908976965,
+      "miou_delta": 0.0005901965511052598,
+      "eligible": true
+    }
+  },
+  "recommended": "compact2048",
+  "selection_rule": "At most 1 percentage point aggregate mIoU loss and 2 points loss for every observed near-field class; fastest eligible measured candidate. Exploratory validation, not independent test."
+}

@@ -1,0 +1,2002 @@
+[
+  {
+    "path": "data/dataset/sequences/00/velodyne/000000.bin",
+    "sha256": "bf272996d5b6d25cc5589e1089137cb20a98b63bd4823a7fea5631b359f6d68c",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/velodyne/000239.bin",
+    "sha256": "1694c001764ec248df961b4255521df8e254d290c336f7fe1dd66526bc42699a",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/velodyne/000478.bin",
+    "sha256": "39627263d65b7caafcbe4861309715f47ef41665aff0a723e6f9d1dbf0507feb",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/velodyne/000717.bin",
+    "sha256": "f2243a3087080b91d7e22c081987127ee7ce348cd0541616f59c4ceb1173cec9",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/velodyne/000956.bin",
+    "sha256": "399b8a941e195a836550a890266d7a44e1896a5f35d522ad2c029bfd1f439c95",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/velodyne/001195.bin",
+    "sha256": "5938e6833be7c1ad8db00f95efc88558c1b50af8cb0c905ee3901fea35b61a95",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/velodyne/001434.bin",
+    "sha256": "1fed5264ba5096673d8287a3c69b4d42ffdc01e8b570ff30bc383b55b7beea91",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/velodyne/001673.bin",
+    "sha256": "31e494e0b3bb4413b313d70edfd1df76ddaf0a333c65edbbd2016014c946d594",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/velodyne/001912.bin",
+    "sha256": "b0c80a39e6238fd5dd7ca3e3f65f65686366a567a06bab3ec2ff94f5e0fe0aa4",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/velodyne/002151.bin",
+    "sha256": "bc45a11c9c937bc56f08ef96d0a53473f503282973d3ba59c46b82cc0677260e",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/velodyne/002389.bin",
+    "sha256": "433bc8abc2f6ec493a434785e80bc92d734939e566ea6ea6dfc5ad44bc0da97c",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/velodyne/002628.bin",
+    "sha256": "b37856cf50308b9a95514387a444fc0ec0765f36d9e6c640d547329de5a0e6fe",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/velodyne/002867.bin",
+    "sha256": "c7569b2831451c60e32947c8d62c8a6dfb2586fcbfb606252215239741816bf8",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/velodyne/003106.bin",
+    "sha256": "3bcd5e322288e9d4ba65a960d89ea7cda692eb74e3c6504f582c63456eda0667",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/velodyne/003345.bin",
+    "sha256": "9d97303e636627424938360ff18cf277a017844f137bd59f4a4c95b3200beafa",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/velodyne/003584.bin",
+    "sha256": "d518804ccd3ce4685dad8ec296e0d5737540584fc70bff1a77c392848fa8cc2c",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/velodyne/003823.bin",
+    "sha256": "1e9f94da75e38c52f410393cd25016a08587544d29b65d8ec51f25019bf5cf24",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/velodyne/004062.bin",
+    "sha256": "3988514dbbf5fd81e0f9ef16d8076ce78adc78f6c8dd46e9fc74f4696b5d0fae",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/velodyne/004301.bin",
+    "sha256": "d8eb2fda9b9c8b5ea655166c12fea2b72f86620ad728d1ac1dde3bfb5c01eafe",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/velodyne/004540.bin",
+    "sha256": "d9862ee309e08a343e3d363aa173f877182d0b781dd7b5bd1897c149fb1ffafa",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/velodyne/000000.bin",
+    "sha256": "dd4b3859e87d251ac2d823f686293aeb3ba60aad7634158926c562ce3a114d43",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/velodyne/000058.bin",
+    "sha256": "de2b78f208da6226a1884867376d43fa22e7720f5fdc7e5117003e8fc2b83eb4",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/velodyne/000116.bin",
+    "sha256": "bb1c37f63935eb3629b076ce605d1acbf440170d42d2616758b9a610efd4a989",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/velodyne/000174.bin",
+    "sha256": "3eb61b20d3d14001dae00821316dbe9a337dc0a1328fb7aea4eb51f9928e6d98",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/velodyne/000232.bin",
+    "sha256": "0ac302f68c53a7b266804a6f1ad9a938eda4a29564e890c250a888b416b9713c",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/velodyne/000289.bin",
+    "sha256": "8cdfa27418d979037d45d03fbd22317608105b7222b58b5622abf734295ef7bb",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/velodyne/000347.bin",
+    "sha256": "0800fd5e3d9d94dc34f50d62fc8fad8e7ec2dd25a14184c4e67c8c8fac7a138f",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/velodyne/000405.bin",
+    "sha256": "a3503122d330124c46e2739825e57b8229167c460b022fe839573d38881c4fe5",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/velodyne/000463.bin",
+    "sha256": "3297ce7445f0b80b75c32caf0cd64508423487097b804a1e4aa2007b0783a187",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/velodyne/000521.bin",
+    "sha256": "0a87f888b754ed4b9756f61967675d3b97cb4e885cd92d14cd5035e49457405e",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/velodyne/000579.bin",
+    "sha256": "d7f9ab11103ee0dd1f2d60f7e9498015750452dd27a5ac9fefb4241608a2c6f2",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/velodyne/000637.bin",
+    "sha256": "f4494bdf0070e460483c5e2849c95212017abc5c3dc021a9eabfae81cc7ac7db",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/velodyne/000695.bin",
+    "sha256": "207cb5c1e9d97cc7331b8f0114a5d70b8bc433299b5c0561300ca2e2c872fd38",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/velodyne/000753.bin",
+    "sha256": "4dcc435a4b875e54966d2a7d15bf9013a9713cc608931b2bd9508ce62470fa04",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/velodyne/000811.bin",
+    "sha256": "04dff3964a22c5f742eb0db027398c1209490fb9d6c884106508bba2a7ca52f1",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/velodyne/000868.bin",
+    "sha256": "9cc557502ca197443ff76e37d5d192fcd08ae8f0b296e09a2e99bc17a48d7884",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/velodyne/000926.bin",
+    "sha256": "be5af09d269550580093c273e124374e7849e8e4507a636e0eafd898521422a6",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/velodyne/000984.bin",
+    "sha256": "a193c316222b1aa86c5abd95c562f7ca8daa183b3502a608ec5ac412ce8f3dc3",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/velodyne/001042.bin",
+    "sha256": "fa2f14c5ce98be6e46986b0fb87797ad511256daeafb0146bf459a58de2a8bbe",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/velodyne/001100.bin",
+    "sha256": "479a12ae994d815c4ab5119c7a82b0581767c66a942fc79fbe75f85e967c4117",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/velodyne/000000.bin",
+    "sha256": "cd573030fc01fe63343198c025648d9a076b953e90d60ceae6c8ccf7404e9905",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/velodyne/000245.bin",
+    "sha256": "e0cd68f9a21442b790609a811d5cb92a005ff255a52af52a549154a256454888",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/velodyne/000491.bin",
+    "sha256": "3642261b5bb27c7dac0a121103ed5f019079332f7c4a1605bca04264c66e8f25",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/velodyne/000736.bin",
+    "sha256": "efc8ec8aecf3828d77a2fb1d05afac1e914e0a5414c6c329df59923fe23e8544",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/velodyne/000981.bin",
+    "sha256": "26285928986c81a0353fb9b351be4f33e81ae7a97a4d68f20fabdce58acf3c36",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/velodyne/001226.bin",
+    "sha256": "1b13c815fe9dd9b5df5a9b09e78925a3a8840a929ef8a68f58e9a9c24120d1c0",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/velodyne/001472.bin",
+    "sha256": "48663ffd4d5f0d8a0efe9150f1d2de8a86f4a9899c034d3580fbd96c41f4d5e6",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/velodyne/001717.bin",
+    "sha256": "94b41204efa46ac6a7da2123cf081007e3697c1c921c262dba440b4b5db3544e",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/velodyne/001962.bin",
+    "sha256": "254cc41040268e28d597756421e7a7c8e507d95dc4cd453dc17513b3576a4c76",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/velodyne/002207.bin",
+    "sha256": "dd56cc39a26dec15b5b755f7b4321eb28ea50d5324bd92ef6f780b9b565b4357",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/velodyne/002453.bin",
+    "sha256": "e90500c3113b70a0fc1937e80e1ad5694be13feaf972fc2a1e220b93b26b832e",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/velodyne/002698.bin",
+    "sha256": "396df6f02128af04b3c4f3578756e2d5cdd6b6097036261363b5db761c8f396d",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/velodyne/002943.bin",
+    "sha256": "c75d70d50e17ff287fc90bfbdbf39d22dc97ecc6abfb179a79be9c2e498c6ae9",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/velodyne/003188.bin",
+    "sha256": "4f770cac3ae01df4e7550d56dc863e64be480a2cfec6db5ed58e01aa6624002b",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/velodyne/003434.bin",
+    "sha256": "9ff7bdc4e0b3632b570324154f2ed9176e7be4b6b9322b95d291a11ad81f5552",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/velodyne/003679.bin",
+    "sha256": "f97a4c9ff94acec17a284d586fd375cc5112dea08d65aaf7ef913ae73359a55f",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/velodyne/003924.bin",
+    "sha256": "3a01cef805491184a3d2781d760e4bccf6d378e65256148655c004b383992e46",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/velodyne/004169.bin",
+    "sha256": "72a5fc786e006b7d37efd382c57e757641fd5152aef44f8181009ce0796e5c00",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/velodyne/004415.bin",
+    "sha256": "9eed2f1526d88a69fd9831ff4edc9be6861d4ae3c3a9724fd78a59d9b0c7aef4",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/velodyne/004660.bin",
+    "sha256": "e8b747e070122fd1ad4605dddc79f8ed3771f5b8649e96ffbbf8e45876741a72",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/velodyne/000000.bin",
+    "sha256": "034df50485064fa27545533b8d5c102dc6839104e6f4f3d4ea3f76ef0a731d9f",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/velodyne/000042.bin",
+    "sha256": "9800ec435df7596dd6494434ba4aa54c095ab78dc348aa5cd1254b8c8056035a",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/velodyne/000084.bin",
+    "sha256": "51423112637eda973913990c956a53964cf99257d42be4b1b4b4bff931bc874f",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/velodyne/000126.bin",
+    "sha256": "2b162894dda7837f42cc8f74135ed7cc7e90ab983f39d2447dc6b7d3252d1f66",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/velodyne/000168.bin",
+    "sha256": "0ceb485e7134df24a73c93b47a3fdca1a33d5d766eb27aa8eea4bd244680ce8d",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/velodyne/000211.bin",
+    "sha256": "37983a6f5f0ad216dc07ea262accd29ff3b7a14957bf7962de0f844c1837d450",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/velodyne/000253.bin",
+    "sha256": "c8af9c6bd70d211b437b0a87bee023186ed23f4300e7e53b80009c4bfadad738",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/velodyne/000295.bin",
+    "sha256": "3e4d14e7e30397be16aa205e966399283efb76bd458e151c45566a94ca4fc10a",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/velodyne/000337.bin",
+    "sha256": "7ccd78d51c5df5d5f4c5102448309387391ecc2850789916578c5222a7090bfa",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/velodyne/000379.bin",
+    "sha256": "ab73ba99dc6b4b6d49a89c7a79295fa14bcd13e420fdbe1273763b136fd36a84",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/velodyne/000421.bin",
+    "sha256": "edf88699007e927b700ee0f2db0ef07513a0169aa86426bfd8c7dab9e374a7df",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/velodyne/000463.bin",
+    "sha256": "54cc51936b6ad3a28b8aac6b617fd6298d2244f741a0805e8a924e879cfacd96",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/velodyne/000505.bin",
+    "sha256": "98d9496fc419d3766ba976c1ca863c5c320a955efa888b7477ea27b979e0e9ee",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/velodyne/000547.bin",
+    "sha256": "00487dcc88fc426fddb1c650890fad6faac8087b3d7c406306ae0163509d170a",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/velodyne/000589.bin",
+    "sha256": "98c0104c8234352829ecf432dab9dde7e2a7487d885e89c1ee79244be602d8b0",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/velodyne/000632.bin",
+    "sha256": "73e041c906f4b813e55a9dfe140f6f93350868787b09c22f97748b6611c85aad",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/velodyne/000674.bin",
+    "sha256": "d1c1174b04c89f209829c8cd2338707a33f8961f259aa5c25740b40ed16e889d",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/velodyne/000716.bin",
+    "sha256": "e665fba27f02e056832162067a942de5e471d28cf0631aeedf4341de40ccd2a0",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/velodyne/000758.bin",
+    "sha256": "dda465fe8ac3aa14f2681cf458238b5d4216c7e301ae5314b6b857eb3b424692",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/velodyne/000800.bin",
+    "sha256": "c07e2afa2fd180f8d89ada941f88334ad3bbcafc931b3feb9ed5df184c9f187e",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/velodyne/000000.bin",
+    "sha256": "58984d9a458893866941ccbd449b76cf82acd80f4dbbf477fa90a7a63ca3dcdf",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/velodyne/000014.bin",
+    "sha256": "34255d48deae0cce9d1325644c8a86cef446bb6723fcf7c06238528241c260e0",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/velodyne/000028.bin",
+    "sha256": "013367e71fc059f5c91ee882d813f4c96301a631c5129d231a4286ff6596c935",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/velodyne/000043.bin",
+    "sha256": "e791d748210a66463b58b9c802f8d73c06e1128f21f5075df7c0cd6752308dee",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/velodyne/000057.bin",
+    "sha256": "71cdef5545db030de52595047e2c7aa03568dd4204293d2e5eb8329067e5b093",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/velodyne/000071.bin",
+    "sha256": "e67fa90bdce2cdd911d17d484ba1006948c68bca4c4dae4d72d735b6d38a83e0",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/velodyne/000085.bin",
+    "sha256": "ae6529f176f4b2a0798f8617b9139e724ba58f08bc40aaa2ddd518cda8e3fcac",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/velodyne/000099.bin",
+    "sha256": "ae6dca2a333b7b363fb736fc0959a99fe7e5c22016a06b8c9bd3b5fb10d1967c",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/velodyne/000114.bin",
+    "sha256": "7ba7550a62ac2761668037f185ac513cbe2798e4eaecbe86bec54123922f4ff6",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/velodyne/000128.bin",
+    "sha256": "ae1cfc11c79d4df44843a8b6f2044079612574df2a44cff56c3e2f5c9fb62846",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/velodyne/000142.bin",
+    "sha256": "db6be82424cb788f5bb029ffe83e03776c4917a7eb42c9a261caf5820f4b3019",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/velodyne/000156.bin",
+    "sha256": "e0067bd9c38501aff5578c48f804a6a5ced3bc208484fd744dfc6498d769cc6f",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/velodyne/000171.bin",
+    "sha256": "242486bda65ecde0210b38cf05582e51084acd9fab721ecca8bd0daebb045dd3",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/velodyne/000185.bin",
+    "sha256": "82d3a76e5856d95f16789ee39e08e6e639c4b9e117382d4ab8a9ec22bc8887b9",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/velodyne/000199.bin",
+    "sha256": "a27ce9d4fec906da721355c517935f0ca6ad029da8d599615e05ed367b7abfa7",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/velodyne/000213.bin",
+    "sha256": "d1a4376bc693f4c92b9d4decbd5015aa4332b3d3ee06a5e2b25de0751aa5ce5b",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/velodyne/000227.bin",
+    "sha256": "775103bce98f8a4c855517ca93d3e5c57f1ac04ec70ba54ac59669b9414f94bd",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/velodyne/000242.bin",
+    "sha256": "5a72b8aecddce9608557a5b291471adf91e6dceda540610f2a8c9a9d73bf2fac",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/velodyne/000256.bin",
+    "sha256": "6c55ec01474869a188a030262c1950a362b27da8aa3f677eae5d5d5e4f120e6a",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/velodyne/000270.bin",
+    "sha256": "b5e31406ae1fbe6ec3557b9bf958fac811e831d6652c81c994e0960e90c9bd9e",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/velodyne/000000.bin",
+    "sha256": "39ac662ca7b95b38dee992872de15a798561108a77afae18fe1edcfed475a4ab",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/velodyne/000145.bin",
+    "sha256": "7f79cfd6f41a5fb94d2d356805048a9312052b0add7f342d93a6484ee8cf04af",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/velodyne/000291.bin",
+    "sha256": "f9e1039eac6f62d8b0d705274d2e28640bc810683865b9540929249ce066a165",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/velodyne/000436.bin",
+    "sha256": "aba0982145ab15e60fc5c56c1b720b792030732d58aecd47c59e6af082741c15",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/velodyne/000581.bin",
+    "sha256": "1d04f96c81439b2ebd0dc2a968567370c0519cb076972f17dc6d415d1ebea2dd",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/velodyne/000726.bin",
+    "sha256": "aeaa8e582ea186a9554db5c27a6ddb2e9912eca5fb3b5e55086938ac2b0205ba",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/velodyne/000872.bin",
+    "sha256": "28f6ed31ac146d314af607479b513dcf34b1bea154a1acc8fe1125ec164328ad",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/velodyne/001017.bin",
+    "sha256": "dbf20517a6b186678af3b91bc4ddb2a2f8bb21ccfbd83589893904cbdf6f03b5",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/velodyne/001162.bin",
+    "sha256": "2f759cd0112feee963d410cd14f8e1c2eb80261dd7e562eea1903e926c52bbcf",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/velodyne/001307.bin",
+    "sha256": "acb75bf8a55becbdac062c873c4cfd3c5369945ca35ee3d95319d2fe41b2b42f",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/velodyne/001453.bin",
+    "sha256": "dc3129b2f5d21290c358af1115a4002fb48275eba89b157fe3eca964e6218e88",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/velodyne/001598.bin",
+    "sha256": "9ad38f9cca5d0078a9d5f91f8705bd7bba1ffa9697890098018a46fc5d990f2c",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/velodyne/001743.bin",
+    "sha256": "29afeb0452f3fad25258d6b22a90a666ea8bea45250c66afaba6346ae47f4848",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/velodyne/001888.bin",
+    "sha256": "3fa9b1bc75bcad52b02b4ad6784f32d158072313c03da8162c566ec20c63c963",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/velodyne/002034.bin",
+    "sha256": "674bb8361357d6e27b92c7ecabc5fd2304ccdf20472fe50a72798027b4346122",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/velodyne/002179.bin",
+    "sha256": "b6da8b19ac4b3e208065340f5437df372d14ed4aff0c966dba9e69984c349b4b",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/velodyne/002324.bin",
+    "sha256": "0afb97e0d5339eb6740c9bb83ba48b07c39531aa463c95f81000c9676c72cc0c",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/velodyne/002469.bin",
+    "sha256": "d0efc511b046ee98e608836fb70fc0a7964013afd0ff0837eb9d2aed6e39f3c8",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/velodyne/002615.bin",
+    "sha256": "3a009fe2babf9396c7a692eac33c1fba3e805dbd49f81abd99924af1c17b41f0",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/velodyne/002760.bin",
+    "sha256": "980ed19bc5410ee5cd7055dbb6a059a2f363b0b1c0950bcd5bbe3de12a45b077",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/velodyne/000000.bin",
+    "sha256": "faf067ccb9895ee6e375a3ef1a429e33163ef9f3dbf6cc65ae60eed22497ae13",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/velodyne/000058.bin",
+    "sha256": "7afb105176871628f6a33d57dfed9737ebab51db79d09096855841f89b49f843",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/velodyne/000116.bin",
+    "sha256": "2c9b20d2766207ac16fcfa2fbf253d52c934f9016ac652c3d1fd85047afc5e0a",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/velodyne/000174.bin",
+    "sha256": "154900d5a8e6cbe817e64e355d4dffc3b4227a9d1b78c0e767d1ee7552ee59f3",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/velodyne/000232.bin",
+    "sha256": "473ab5100f29eae31ec07e5db6abfe8707f567d398c5a1f8b6219f256a45df18",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/velodyne/000289.bin",
+    "sha256": "441071698fbd63cf85c829903d0e3eddf4adf9eda0912b918bdb042afc6bfe77",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/velodyne/000347.bin",
+    "sha256": "47bc45bd357abd3fb43db1bc7ca2209d7826d8610730a02b02b114292448b029",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/velodyne/000405.bin",
+    "sha256": "79a9278a865bfcf9f349e84796d5cea99e6da27532ec6e41b1bf88f13c1b5cc4",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/velodyne/000463.bin",
+    "sha256": "3d9415a120e040f7dc4333bfdf8d10d3415449681907ef473be3d118a4a34589",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/velodyne/000521.bin",
+    "sha256": "3bf9db93ed24351cd32e0c097ce7b94073178ada3af385126abc4c237b4cd7d3",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/velodyne/000579.bin",
+    "sha256": "f8b947d7d678dbf22f07779dff21661c66ef2c54b9912f0cf292772d5961e586",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/velodyne/000637.bin",
+    "sha256": "c3fe560537e081f1010cd3774667660776e218b66d715247bc964b609e1b0879",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/velodyne/000695.bin",
+    "sha256": "b2036f93cded63769cc503868c30b9a66111419c072bb3a12a479a28dd0eab97",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/velodyne/000753.bin",
+    "sha256": "eddd1f63016b4818bef0933a9b2643eb1fdfaccb81880369ee8d9d52276f1c14",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/velodyne/000811.bin",
+    "sha256": "b66c345c048656f17a08c18c18be9f31430577b5e60a988ed9261fb07e2e6a08",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/velodyne/000868.bin",
+    "sha256": "a787fae96bc58dd830d72bd8304052e46b276e929677db75cf212fe1e4bba2ce",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/velodyne/000926.bin",
+    "sha256": "8c9593fc045b8567ded982bd7aaebfbf1980c1312920cb81511b91c99e0e167e",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/velodyne/000984.bin",
+    "sha256": "d5c99dbbf624a0817ae9dac895ffb1f6ae7dca9045075a5a66ce5a2606f2532b",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/velodyne/001042.bin",
+    "sha256": "023abb53977d547c71509c0205e1643496243436157e09efa2d7eec945089227",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/velodyne/001100.bin",
+    "sha256": "e1b6bbabe6b19350c8f8c323d796f04e69a2b2f5e948a37e8eabc4a25687fc39",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/velodyne/000000.bin",
+    "sha256": "05621141af5e4eb3f53769e02ddc110aea1a786b10c4a56510a2d0a7bb1b09d9",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/velodyne/000058.bin",
+    "sha256": "cda54723dadfa20fc7ac1015da68fbbcb8b4fe423582cbc45b45c7772bbbd61e",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/velodyne/000116.bin",
+    "sha256": "09d1549af102685c6e1a67349965a99815659746c033afc1d6d4b87e87bccc1d",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/velodyne/000174.bin",
+    "sha256": "bac9dc815772932a3c2175db8d7785ed714600d80b5f940cc5c1f13bf47c0a9c",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/velodyne/000232.bin",
+    "sha256": "9aeb6f718018cfa8c8482d66d976dd3dc2d0e47a0a4ec2e5d1354ed55db73b34",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/velodyne/000289.bin",
+    "sha256": "de191238c6b1a7b83884df395d146100991a4e71925444714839522ee48c2626",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/velodyne/000347.bin",
+    "sha256": "7d056aa8bcfc21135be2371117f719f89c5bba2635318bb2a2053bb980b18e18",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/velodyne/000405.bin",
+    "sha256": "16dac005555cdc988b3bc3dfaa536aee75722dc49bebe3a4aa2a229c0578cabb",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/velodyne/000463.bin",
+    "sha256": "d189e5d46398fa5b7601ae7e432e6135bd82b1321a9ef468521742dfac6e1ae2",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/velodyne/000521.bin",
+    "sha256": "ac50382e324789547810731c0da4159b3bd48bb4b03f65a27159a0c12b0a240c",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/velodyne/000579.bin",
+    "sha256": "56d0b189e1e36758a679a78c9bcfea908f717210cf37b39797bf18b6f83fb646",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/velodyne/000637.bin",
+    "sha256": "f3991a23f4b0c7922d21cd922ff958226d4505fce1da914218e637292fe7a569",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/velodyne/000695.bin",
+    "sha256": "406dc1615a9f08eb2e865fa0dea13a6a233aba7b1061d2f5b22c66c40e968df5",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/velodyne/000753.bin",
+    "sha256": "4dcbc50b9ef5a4f381ca14ff0df9f78884a763a05aaf80f1ea7a1c31764e46bd",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/velodyne/000811.bin",
+    "sha256": "2ae9f282b6c796fec4acf9254ff5fbf3727119b08c318c831a78edb454b9fe4a",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/velodyne/000868.bin",
+    "sha256": "a3d9384054809a04974896de994b9d4c287bf670ebaa9035bda779b6ee1d77e7",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/velodyne/000926.bin",
+    "sha256": "01399106bfff2ac33f36aec1ea944d015cfeb67eb9c1d3a28d4cf15d5c6190bb",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/velodyne/000984.bin",
+    "sha256": "a4fade8eea7e0d53e63d857e2eeff92a06894a08c3d3ba8175f34440e825678f",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/velodyne/001042.bin",
+    "sha256": "ec766e5078e319c29298080ae01a7410f3f2c7668510d638117dd83904fbc83b",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/velodyne/001100.bin",
+    "sha256": "f11ff7f4ad52975f2081419da864bb4280afb487b6c02b40bcb72307063204f6",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/velodyne/000000.bin",
+    "sha256": "b769b195f83723f1ff86c3dd29486fb4d7eb3ed21fe90d92c0afee75f94ab58a",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/velodyne/000084.bin",
+    "sha256": "1d3f8a2cc28bc89f8928ced5af509557925442f66008ff0317fb6825aa2638d8",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/velodyne/000167.bin",
+    "sha256": "21aab02eb7616bfe3202ce14777eb11438a1dc83da1059cbe5dc6f5dc6377b80",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/velodyne/000251.bin",
+    "sha256": "8851eb42fd423dcdc2fce8895a66c64145d576c4816d4d5aa20a84130c4bf508",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/velodyne/000335.bin",
+    "sha256": "35e70f82be842faa9d9b689fe6d75bfea995208b9f46fc3570960ac5c6115d40",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/velodyne/000418.bin",
+    "sha256": "1cf5bc168a2cfe111443391c4889d9e9699c148db8bc4427e2132f3e15f29241",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/velodyne/000502.bin",
+    "sha256": "ebcad5801b0f66617e8c5eabf1bbdc19e5e6240f86a6f6e6f1de6325640771ed",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/velodyne/000586.bin",
+    "sha256": "f784e6110e4e43a573cd7df3cc5cb9da300a4823df6235f0cc3bd9603adcf074",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/velodyne/000669.bin",
+    "sha256": "2171b3e7086347eb760ec202a5bb1a540b163994d56b73113a893803cfa750aa",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/velodyne/000753.bin",
+    "sha256": "fb27887adc502e2a5e2a34cb1b434dde4bc2ddfc85409d5f968b1e1b79673392",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/velodyne/000837.bin",
+    "sha256": "765e62da209b5a74f2475b6c1781cfd704817346906e5e74f3088b8ce29df38e",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/velodyne/000921.bin",
+    "sha256": "e9bda940d7aba5b630ac7ca59cc9565ff596e2b195f41d91bd3a57740b93357f",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/velodyne/001004.bin",
+    "sha256": "290523618f54eb6b33eddc005a9cf0c8cadb85ef7dbb81da1af23c071cb4effc",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/velodyne/001088.bin",
+    "sha256": "f5e3f235e4c6d646990b7c71ded44c445d3dd1ae27b069687956021942f2d0f3",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/velodyne/001172.bin",
+    "sha256": "8484fd2fd4bd10f7d2497cf107981eabe08404e7153ce29a4adcd85c3053075a",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/velodyne/001255.bin",
+    "sha256": "0a6172679e393b74e680fa7a6aca0f4274832476852e467667fe1356f5680731",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/velodyne/001339.bin",
+    "sha256": "58ba2bfb256eff0a4ee4ca9eac98bf8713b9f00c49962c7eb214d0014dd6403f",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/velodyne/001423.bin",
+    "sha256": "07c2b75660a2fe62fe65227800455b8fca6c8783bc75198cec03ba6f66fc7146",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/velodyne/001506.bin",
+    "sha256": "0a09f260d559ccde34b6b60adff5d004dbe9fb74679e539ef3fdfd71c2fdfb65",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/velodyne/001590.bin",
+    "sha256": "6f3492f9d897d30786d3d8804f36cb5ea2ee4df635ff3433132b4b70a7bfa5af",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/velodyne/000000.bin",
+    "sha256": "f004fe51b01ed05bf1049ffa417f8acc1b0aa84405c49d6b83e50d2338c2ec08",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/velodyne/000063.bin",
+    "sha256": "1786f9d689dd850e108499a619ed254187d7b816faec02e2aa21bb6af37c3393",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/velodyne/000126.bin",
+    "sha256": "8c012e6551bbeff7bc81e4de852a70c753432731df33776cdb23ed982023447b",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/velodyne/000189.bin",
+    "sha256": "1f02a13b64638e3dd64af59752c5a5255b6c4dc9db3caa0e6ad27b806e687011",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/velodyne/000253.bin",
+    "sha256": "463ad2e200354c4e8d60aa063dc2aaa32af82f9bde94dcf3d11c022728f9886c",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/velodyne/000316.bin",
+    "sha256": "5b07e51c3f86d018469ab73bbe8f24fd95cab7ff9619e9b3d640eac626dee59e",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/velodyne/000379.bin",
+    "sha256": "570ddac1db06bf6fa74f9ba7743cb46fab66c47abe36ee7e6a6d1f6dac9f278f",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/velodyne/000442.bin",
+    "sha256": "c5c7b5eaec6546d036987983008e2276a60f5cc217a369c7e24f8e624ab5ce13",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/velodyne/000505.bin",
+    "sha256": "65fe29f272d15a5b853aed9b8d34aeba5d80f14a95b91c9ece1529b08f34d607",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/velodyne/000568.bin",
+    "sha256": "c0c9d3f70110d40de58a2a5bab3ecac56643dcbba177ef5defd82f6797170451",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/velodyne/000632.bin",
+    "sha256": "85947cff950b2bfe38e148688ba49f9fc90a28d48e0a44b8f079270af2932a0c",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/velodyne/000695.bin",
+    "sha256": "cdccbf9852d1e753d371421b499f943a1a89b36adf7437931e73e4aa4599e8ed",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/velodyne/000758.bin",
+    "sha256": "7f7a067dc1286542c88b31dd5a29643728a5a97a6537d65be334f9e0fc7a84cd",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/velodyne/000821.bin",
+    "sha256": "8ac8e012c6480232763090f858eadfb7f788da5c9aa99585a481043ef3bf4ffb",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/velodyne/000884.bin",
+    "sha256": "8a9be24c794af2ddde33d4ac4320f7a9acbc130916ec8082a4bd5edb6ffbe6a2",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/velodyne/000947.bin",
+    "sha256": "24a37f0b6bfbc206ff6b9add93b59602ccda3a20a8359b8d4e4e380a856f033f",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/velodyne/001011.bin",
+    "sha256": "f5428825e49195a0b9a4b1e5da8b98dd252179b96cf391a255d6fa283a150f7c",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/velodyne/001074.bin",
+    "sha256": "81ef6b4d6e522787a5b81231eb8f5fc78b92ec6ee09e39f38d10f47a8495bb88",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/velodyne/001137.bin",
+    "sha256": "e61f8547e28e19567ca9ffe707ea22000580acf727330f9735464b7ed714b6ba",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/velodyne/001200.bin",
+    "sha256": "d439bb69289a45810ca70cb78a29c8caf397d8867ea66286676194f05fabd4f9",
+    "source": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_velodyne.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/labels/000000.label",
+    "sha256": "7fef55d3447e5af16eec9001af713b1aeb5b73d16fc756a5f9fe13ebff83c2ca",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/labels/000239.label",
+    "sha256": "14b2d410928f736b5cf4a4f179bffc04e81b51477d24cc6857ea04b99f797ce8",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/labels/000478.label",
+    "sha256": "90552d07cae7eb871d4b3652bb473b9d6c3a7244fe529c64d444c53c1e3ae91e",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/labels/000717.label",
+    "sha256": "05d8306da37b0150a29d25ddf44c3a985b977daa1b2bc9050bc5391386b4e7c3",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/labels/000956.label",
+    "sha256": "af5be66b3a5729f2c4224e85f97d5fb2c46a1105401d17d15f24bd57998855df",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/labels/001195.label",
+    "sha256": "fd5d01971a94690f8dfd15b9be6eefbe25c6b6cded6ec023c7cb4b0b6776e35b",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/labels/001434.label",
+    "sha256": "5167112baa2cd46fc96bb5ca68a11ea0df793512648fc405d381d1a73a7d68a2",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/labels/001673.label",
+    "sha256": "364bf71f0832213040fec08fd8e0e8e0e12950e2fc3bfefc14e1814e59f7b709",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/labels/001912.label",
+    "sha256": "a016ad63334bc9b4dbb7850e9a05a2259a381ad51e1290759f9b7f41fb2a0daf",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/labels/002151.label",
+    "sha256": "472b5fbaab90b6a5c9d453513321b7ec508b2985dade176747bafcaeeca4e52e",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/labels/002389.label",
+    "sha256": "7129d6f25c8b0d9f1ea9346c665d3ac9d751c5a9041fb643200a266031195838",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/labels/002628.label",
+    "sha256": "ca2c689a532e40796a893017a17b3510fc1d9cc6eb9b641a853c5b17caf513ac",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/labels/002867.label",
+    "sha256": "aff81384740f467b85c05520148ceabc2600b03220790ead8a1c19699fa00216",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/labels/003106.label",
+    "sha256": "0a39f7aeb4aeb3828efe541ab226e0f3a8e00cb716fa228d52dc5a48ebf8b773",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/labels/003345.label",
+    "sha256": "e798fbe47362f5f48028c7bde7c168647c4c62c567d773e5cf226f88b95f0455",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/labels/003584.label",
+    "sha256": "0e230fa1b1e21a76c2991c9b6b40ee85a284569200b09b31341db062a67525fa",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/labels/003823.label",
+    "sha256": "e46a918dd395354b00cbc360f79b5138b2580137a0feb486bb6b373be820e14c",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/labels/004062.label",
+    "sha256": "08a51ef70a6e2ea113f046db3bf504630c7fe817fbe0f6f701806b86fbbf01bb",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/labels/004301.label",
+    "sha256": "fc919b50f564acdd498c53762209d8fbc4ac229c2dbf8bb316f5ee4599785f73",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/00/labels/004540.label",
+    "sha256": "138c92b0dabf49ec02d338fc612d649ae3f4fb810f53c9c22ae02f035371b264",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/labels/000000.label",
+    "sha256": "a78b3eedeff4e028069e1c3e08236a2f279b71fdd2686b25a81bd8974f4cd9fe",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/labels/000058.label",
+    "sha256": "913b19fdef5fce3837162551cd44e9c04d2024b6d45e38968bfc645f1b5cbbf0",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/labels/000116.label",
+    "sha256": "ed13ad5beda9d6a364bc43da197f40a6dbca18b9b0e0a1b59ac1591e1ec82ee4",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/labels/000174.label",
+    "sha256": "88c30a3c7ce7e2075e4f800c58ce293c3c3fbbfc89458cbe4616c76b242e1c89",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/labels/000232.label",
+    "sha256": "c17b7ef60335558c9cf70ef4f1b25db8a5330640d44a3c584b8d9e5d55fa4281",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/labels/000289.label",
+    "sha256": "337de97e1f8e15ff95c7f764ebeff69192f5b7cf2a82956b39c997b7726da1d3",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/labels/000347.label",
+    "sha256": "e3918ef5b6a60a08be1fb69fb76b01d8e873582b348c7e4323c0c389c579d7f8",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/labels/000405.label",
+    "sha256": "b31c60ca2e9ec0c41813628ffe1e2f40aee1ccc6137747452ef7d9baa8bb3193",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/labels/000463.label",
+    "sha256": "d4b9afb26e023854800ed837e8393b9ceb3ca337754c24e50b57d0b7546df97c",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/labels/000521.label",
+    "sha256": "795b7eda8c87ae7ff1f2be5ceb9fee83aee1ada27ebc2c58bb96a167d20f8d55",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/labels/000579.label",
+    "sha256": "1673b5f9725bf6bb8377f3f689d7e67fdb6a204373f879ed417254afa29460b7",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/labels/000637.label",
+    "sha256": "20cfcf4cddd91a367f34fbe3f1aa67dd33a5af2d4df54b5279fb0b0fbd9a7b6e",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/labels/000695.label",
+    "sha256": "9ec30228b36511d6ebf70a7b142a025b58f8877dba939d0fad36c26bef94eb95",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/labels/000753.label",
+    "sha256": "4f1929fa1d12b381018a2248ed997f26600fc42b30bc774948b77b8bfc5a13f4",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/labels/000811.label",
+    "sha256": "f2dabffd5cc63739e5ac1e6272b1e67819f10c5cd131e88223bf03f66f3d364a",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/labels/000868.label",
+    "sha256": "94c9bea768e5ae2381344106bc211685c420cf17aef79e1a2c42df9a9e422f75",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/labels/000926.label",
+    "sha256": "5d0264bd004e7126003312f026530dfd2c30b579b19643297a8c5ab0e74d9773",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/labels/000984.label",
+    "sha256": "0aa73cb0618c3fe8a5427ff78f2832a58b9f451e9a590f6ea56f5c95dc84f372",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/labels/001042.label",
+    "sha256": "894d30e02f398ce8e668b894ef0cbbd88b7f032544330df75e097a7a87b5cfa9",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/01/labels/001100.label",
+    "sha256": "c329a2ecf452b2a1eabe052e6afb2451e6b981899671d8e3a2455151a27a0804",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/labels/000000.label",
+    "sha256": "ba2ae85eaf89a7e21a4bd400d242cf6bc38b42c7c17062eec1bb4ad57571057c",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/labels/000245.label",
+    "sha256": "5cf70380a1e5b8d04d82be4f7a908569f2d20516e2718c9d8b5e9056bce794f5",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/labels/000491.label",
+    "sha256": "3b97890d2ef059425cebc5b71a0fcea6b90a79dcbc4c7b734b08cec9565d86d4",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/labels/000736.label",
+    "sha256": "e19b9aefef50f78aca9f1633b76cb46c6b58030a251312c4f50c30f49bad0c54",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/labels/000981.label",
+    "sha256": "2d06f910b490d3169dbd4617f1df4b4d975fa7cb6ed87fdae98e63b317c25ad2",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/labels/001226.label",
+    "sha256": "7e5d52ca65ea4afeedeac03c1092a319af55dc6a6fde1e7d3f852e05dad07226",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/labels/001472.label",
+    "sha256": "4e706e759920f456a337e69f843939606c2f0051d277d1d53fb5b4e513a4f8fc",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/labels/001717.label",
+    "sha256": "1242fb3cfe2fb85151ed95281a4ec4b557597111619a4b4825f322ec2da5ba7e",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/labels/001962.label",
+    "sha256": "f7d1c85bbfb819b07c55bd82f78330ba4520df8b5a304f283aadf70d2805928e",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/labels/002207.label",
+    "sha256": "efbbb6fa2396d25966591d7825e8db15c644b3f9aeef6b713a05f8bd7980cb00",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/labels/002453.label",
+    "sha256": "b3d7f9740d7a4aab7564c140ada434add475665189d82f909e239b91c3314746",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/labels/002698.label",
+    "sha256": "48963d31821e679a97474b904ba78640eadfca949782a6fc39b5316e8217e107",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/labels/002943.label",
+    "sha256": "1cb7220c303a4cda6be6c23b37d65fc808f1a02568ec64f61300b2c019552cd9",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/labels/003188.label",
+    "sha256": "fa196072f0e68b8d299040b902dcb2ac3cd9aae51f34c401380de0358ea41912",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/labels/003434.label",
+    "sha256": "bf561370de97f66f0a76f90820c596b37f4908d90202218b8b47ff1c9629a31b",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/labels/003679.label",
+    "sha256": "b3f4423061398382e8e5812eb700c0c032b31b92aded61e55e6664cac8c71b63",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/labels/003924.label",
+    "sha256": "77463b39391ba921a2d7b0681fecab596bca9b3d4df100f75e749634cb7c7a6f",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/labels/004169.label",
+    "sha256": "c0fdc3e3692c02bd6213e901c9557edfdf8ccbfbd4a894da46f5427d68e74fce",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/labels/004415.label",
+    "sha256": "169f0d0d48424cfdb08c78d60e7b0c9c46d6fec3368082abfbf5444ae716ac1f",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/02/labels/004660.label",
+    "sha256": "2f733f24061df5fcd535086105e04fba99bb561d4f05a77def2ed75690a343f9",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/labels/000000.label",
+    "sha256": "51430fdad5e1721aff9498eadcb7d14f66378452e93ca18c564cd44c9d143678",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/labels/000042.label",
+    "sha256": "4d6fb4f41fc0d80a4b65feb2ceb97c5869f3290421e3f6b7f172bdf07f9ce81f",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/labels/000084.label",
+    "sha256": "84e10e3fc94b85bf18fa02543e9cb3eade9031e7a4a0ce0a275e6e855977eeb7",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/labels/000126.label",
+    "sha256": "865d51a8f1efee67cb69b26b7117fdd2bdbcc806cb2a5f0ffe69f3ade6787b79",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/labels/000168.label",
+    "sha256": "e4655e62f3d2874446453314368e3383f3c2732f2f2191c57b99b32dd7b9d42f",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/labels/000211.label",
+    "sha256": "dedc4f4395f5fc3d2005f240e8dc51a6d339a77459166625ddb142bffebed713",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/labels/000253.label",
+    "sha256": "61b21076a47e0fa0477f02b404b7c6b5f6b0a895a75e4235ec11c2cd6b373f4c",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/labels/000295.label",
+    "sha256": "57e8db8b7b14fa6ee79cf98d87b4765c4e47b1adb4ee07acfff889bf6a22a871",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/labels/000337.label",
+    "sha256": "da149a013d57b37275ed66eae9d7685c91617b05ca8a46b1b555f79e4098b70f",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/labels/000379.label",
+    "sha256": "37b1b6532382a449fe6b2f66310d141e4d5a8fa747259489f0b672411430f013",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/labels/000421.label",
+    "sha256": "c94e4e7c0a6d4528adadd5eb99774f74088f236e9048b62fd92ab34275c3c980",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/labels/000463.label",
+    "sha256": "842e8ffdac6e995a2d01fb3a3a87aa5798f4e188492ded84412465a5790191a7",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/labels/000505.label",
+    "sha256": "9f64c0a4a02836fc9178a146747d6208f9d394ec8c13b49ef5c86dda9e734ef4",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/labels/000547.label",
+    "sha256": "655f772c16a42da82ccad9c860835044a0f8109a2375ba983c3dfe4d1a5611c5",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/labels/000589.label",
+    "sha256": "273bbb327920b0ec1f8346b4f8062c5766953920eaeb25b89c97ee162624ef13",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/labels/000632.label",
+    "sha256": "2d1153ee3c645aaf72ff3977cb32e227e969f420ea7d24e2056fa3cccd4be878",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/labels/000674.label",
+    "sha256": "c2cd4bba5c60ef3738dc6e115432edf9b6dddf3f80964d1f5be32f526b5d6fca",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/labels/000716.label",
+    "sha256": "336d42ab2ba4ec3f96f84e73ce5f8cb0decc8d40cd54025be984faa52d409f29",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/labels/000758.label",
+    "sha256": "4de1b92acf667fbf3a248d576c79784d87f3664c6899e1986288b9867dd8a354",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/03/labels/000800.label",
+    "sha256": "dc0d726b3e1e71132c16da1eb7a5284ae6dcfda58c1ab463dec1543609cca13b",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/labels/000000.label",
+    "sha256": "e692773e8c04cc0d5708a75d707be2836e87ac6ac42de0c2c779014016824366",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/labels/000014.label",
+    "sha256": "1cb4d74cf30efce98b88418cd5fe9dd1dd7e69f18747febfe97371f61f3244f1",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/labels/000028.label",
+    "sha256": "7a87f4ee2de6f9f19b84cc48fe953f99c98f04ad2143578a5fa64fdd3a16037a",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/labels/000043.label",
+    "sha256": "3d298a905c6c488730c99da37a9bc1ba74d44325653ef0684d4e121e89e39db7",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/labels/000057.label",
+    "sha256": "71510e5c635695ffbc2d4c3a9a50872d5dceabcef6754c5250466b209c3e057e",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/labels/000071.label",
+    "sha256": "eba7346a6f5ab29ffed21698bb1942af0582a6d3123c036fdb659c1936e77bde",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/labels/000085.label",
+    "sha256": "bb3fe7c280b0caf7adaea4139bc9fd12733c16b564f5eef15b10e0c10e9602f5",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/labels/000099.label",
+    "sha256": "7b4553c2301128ffe5b3de46fa0dce2ac888bb35024f713a8e88cc38c68eaaf9",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/labels/000114.label",
+    "sha256": "a77d576af3a7ea444c95c04f73d7225105f10d26e989edbaba6018d1aba85bc5",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/labels/000128.label",
+    "sha256": "75c786e2e10b1b860a2122084a2fad1832cf18bec6f1772f6745ec8be22b9846",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/labels/000142.label",
+    "sha256": "54e6a43bf94b81f7ac30ae19fe7e6cf51bef0ec3bb68d1977c2c824e1dc68a14",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/labels/000156.label",
+    "sha256": "f7db7e79dd45dd4345d1f2539d84a858163b8154476b896c55fa0d3667a08019",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/labels/000171.label",
+    "sha256": "fa95d5cd705def94de2bc24b8bca1838756b95f0e488cf5ca2ebca80066738b5",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/labels/000185.label",
+    "sha256": "3194d55db17df316dc626f3f55e55932ce5ab8a3068015eb9bd3ff54ce695d02",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/labels/000199.label",
+    "sha256": "0e1e2f8638d763e91b4d5cff79f5d50a0afec8f7cce915d9a2775f7a7e78226a",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/labels/000213.label",
+    "sha256": "4667f0f9242e2d827d51666da2e9c7b45ae556fbb5618d2eeb02cb56407e4a95",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/labels/000227.label",
+    "sha256": "4e313ac44d971d2e72d6cdea65ba922fb4c6d4123ae0d9195c7f0f887ed82701",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/labels/000242.label",
+    "sha256": "fd887631c9eb21053734d19b1e51796955997ab52cf1e9da81090ed731bbdb20",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/labels/000256.label",
+    "sha256": "eb2724ed2684cf6e3cfb0ab0903e9f9bf4a6e4675a63ff17bd924b7bdd159e09",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/04/labels/000270.label",
+    "sha256": "84bab6dab3c29f1db98e93feb3df85036da391e980541b02625446a080105c87",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/labels/000000.label",
+    "sha256": "bc23b62cd1e74334abaee493b2965aaaea4bf710b6de683c7d6d1eeef27843b7",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/labels/000145.label",
+    "sha256": "25b6775a3f9c4975e13161c0391557a5e992969ad7356a3632edb0664e7ab565",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/labels/000291.label",
+    "sha256": "013e86bea6511498d1d81947707ca9a2bd76c3f867c2d03313b2699291acc3c3",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/labels/000436.label",
+    "sha256": "db7209a460065deb13b00729943f4d5a5dbbf5707bac4756376a2523355d5490",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/labels/000581.label",
+    "sha256": "3a578001e58728e3f35c098f1544ca6b308734acaf595124e5ff01a20a9eeaa0",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/labels/000726.label",
+    "sha256": "6726d58e580dc8ab0044ff0dccedb21683eb31391ff2c0efa8cc4966f2736e4d",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/labels/000872.label",
+    "sha256": "4709f7d2ecba08177a506e466666e5f83908ec286d12e613ac7918046b7d7314",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/labels/001017.label",
+    "sha256": "3e7f4838002040c9f08cbf4c646a2b39d6ec152e0cc31009dc64225b1840c882",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/labels/001162.label",
+    "sha256": "0cbdd6e57efdd840cb64cb3f489339d23a1918093379f5d2ce57b5848dc572db",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/labels/001307.label",
+    "sha256": "8c2920bf44f8e0903a3ae5b7cf5ecae65a9f0fe6847707c90cc68a26a9e780cd",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/labels/001453.label",
+    "sha256": "7ee55bf2f17475e2045c680a028eab1f25716094c3fcef447a3fc84c3088dc48",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/labels/001598.label",
+    "sha256": "d4b8941b43b4500f83eecc61d87c3721735c727102071935d823ca7667edf559",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/labels/001743.label",
+    "sha256": "908eeabf861916a324d6bd2711aecc27d8c222b8c784029f0feaf2a00e7a47c6",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/labels/001888.label",
+    "sha256": "dcd0f9bb5572165656eac3057abbbb187794eba78e7112b35eeb63e74b5990be",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/labels/002034.label",
+    "sha256": "ddb5a086f9cfd16569a4e466f6f0dbc3d211cece19d8ec2ac47feb9492a17902",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/labels/002179.label",
+    "sha256": "792e79ded6c48bc3d7811657d7606fcec5759c143b4a37b131a8aac5eebec98e",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/labels/002324.label",
+    "sha256": "6ba443c3f5a7df10fa0aa165416638855a2cf1ed3ff3c51a27774a8e9ade676f",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/labels/002469.label",
+    "sha256": "23674168016957b1d4b4713b91994a2dffb122c35d6a8d8476f4d98fdc4085ff",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/labels/002615.label",
+    "sha256": "37f9ff8fdb6fb9cb4e8190af49b8f0dfc70b41e3a03b7aef426f9ffe3ba92735",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/05/labels/002760.label",
+    "sha256": "81c59b6a9a8d2c87b213fb4eb32129a7f0758fd79df72279ba77bdc061429fb6",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/labels/000000.label",
+    "sha256": "ac8bb68e639638ac11bb8aaf70eef831e2df9229ba6344baf0d7352cffdd80b9",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/labels/000058.label",
+    "sha256": "6f680c65551ed2dceddf37def049e8811e2a1d8e5324bf51d8cc14e6bb558999",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/labels/000116.label",
+    "sha256": "514d83bf11cb8e66cc44f957ca2038f31fb837bb46e10b952a15793b9d38927b",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/labels/000174.label",
+    "sha256": "f582ffb268686b4dae6f63f6f09fc487ecca90407541d8b232c2a4a1fc90d6b6",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/labels/000232.label",
+    "sha256": "a1499dba87de7cba3c59d85afba75262834bf0ba1ee7b1630d7e3f6000c1281f",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/labels/000289.label",
+    "sha256": "4e705139345e2142df3a182ce50c0e5e633cef883eb3a62f31b91b5569787c5a",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/labels/000347.label",
+    "sha256": "571c7baa61db2195937ac05a738f203e52f4a00c8f6cb498091cdcfe0e71db37",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/labels/000405.label",
+    "sha256": "f5ad9cb254ddec3e31e4b30bee0457719822020ff80349042349dc55d6697fb8",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/labels/000463.label",
+    "sha256": "a31b9ae666f104df3e616a89c4105206c3dce6491db8b832131311524d363e61",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/labels/000521.label",
+    "sha256": "e9f4540588ec83b819ceee44815449fe49ba65b3a33cbd92b1efe976cf21285e",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/labels/000579.label",
+    "sha256": "66e1b5403f03e1784ef792bcb70b5896a4e2bae83a4011e87c11936ad46d27fe",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/labels/000637.label",
+    "sha256": "64df7b67ed575e2779e8cae44da1a5a82bc7fd4060140fba8e50eb74f0610479",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/labels/000695.label",
+    "sha256": "eb448d4bff136cdc85f19555e86ea5a800e69ab26c685d3b9579433abfb2700b",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/labels/000753.label",
+    "sha256": "949138bb6f42160fdcc6a1b112594a415ae175a14e751baec745ab9b76881d8f",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/labels/000811.label",
+    "sha256": "beea865e1870fac6e2b446e02aacd48c485481a963e3753f84603b6e9aa0168b",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/labels/000868.label",
+    "sha256": "43fd4e8ea578a7da5ce932c9e0c0ea0f01f1a33609ff195e67b8ee02a9a33098",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/labels/000926.label",
+    "sha256": "e3a338ea6f49174d81aa0bbb267d9d14fb71049ce24c46ec590bf772395b4b54",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/labels/000984.label",
+    "sha256": "e5e5dda31f970478746e7dd7dcd65b45f2f2a5727d2d15a244862a8b37ceeeb6",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/labels/001042.label",
+    "sha256": "80d83056af8579a5b091c5df3c505f383ae6b8bc8d54807a39cc0d375bd3deb7",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/06/labels/001100.label",
+    "sha256": "837eda8bc22c6f42f1425e2675c6321afeb527117294a443004182562a5662ab",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/labels/000000.label",
+    "sha256": "b384c0e444b57f7e6bf894608251fe390bbfe1de068a6ce656fbec6fc6a8d42d",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/labels/000058.label",
+    "sha256": "9a97658aba956506d6112471caf83e07fbaff5b17ce8f9e0a7b007d68cce5fa7",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/labels/000116.label",
+    "sha256": "45e2752e8d8e13cf7926db4156f13c68f48512b9ed980d771441c682415277bc",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/labels/000174.label",
+    "sha256": "f7224eca211f253dc7b52429d388af1483e721aacca7857dc17737c710b2222c",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/labels/000232.label",
+    "sha256": "715aa58ede5b2abbde579a876f6d8db6d417b916b47ec27604d6cf2992721232",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/labels/000289.label",
+    "sha256": "fd990221b53e8cfceec8bd8d20458b6ab00f37b85a796d77c78d9bd4111d6e91",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/labels/000347.label",
+    "sha256": "74bc6284e12f0d8446e4c472f965e2e8d77a34c3a33dda1867a2ff24722611e9",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/labels/000405.label",
+    "sha256": "eaa908403126c78532d0b27c40d31a5f48cee55d6ff12f1b3d017ea5b7f5379f",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/labels/000463.label",
+    "sha256": "ed8a8d0fa2038e33f008d60426fa620bceff5fe0088e8bc641bd1e734dfc930c",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/labels/000521.label",
+    "sha256": "5232e600087a62aaedf68318c055489a995f80055730cf08678446d78b75ab2e",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/labels/000579.label",
+    "sha256": "aed195e57516031dc096d524f76d8f1b6f80463360b8432c71e1a8aa13acb02f",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/labels/000637.label",
+    "sha256": "58d34073a93dfe306a9691c0abe6ddfef3f6931d78a1070b4ac0424b1b8f9f53",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/labels/000695.label",
+    "sha256": "f0ec47ac542d05f09b4b930c86d16958ff370a2dfca9dc3fb1b30ecba97573d8",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/labels/000753.label",
+    "sha256": "81d80c98ee234f49103bf4e567b17ea126e902b10774725394eaaea03fd0be5a",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/labels/000811.label",
+    "sha256": "b8d45a303bc9fc6923845c020e8c09f7af06c31d21c6f93e95b4ad5a29dd2d37",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/labels/000868.label",
+    "sha256": "931a21a36649c91d6d5ade4a9ecb2b6828da6abc9c1dc6e4cc48a98f90b3fa02",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/labels/000926.label",
+    "sha256": "bcf143e28333b309d30f4dfec9b41d76178c7056cc0f282c20b2b1564ce81246",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/labels/000984.label",
+    "sha256": "b5d20681fab082f07a8913db2c002dfb80ea8d498db4f6b414e62e573114208f",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/labels/001042.label",
+    "sha256": "04d90726b9e5bcff6c7043e076a9a05b9f836be2b6cced7a2ff019fbcfeac665",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/07/labels/001100.label",
+    "sha256": "ea1e2ff4ab9b2bb339f7644d084492d9eaa98c0fbb9bf0a62752e59bfbef0280",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/labels/000000.label",
+    "sha256": "e36b0898b2b5d34a0ab0c08406365e892562c98cda0fe84aa967cfb988c180b0",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/labels/000084.label",
+    "sha256": "17ae821c1f7bfb1771ef85e4a9035b4c9ac9c51b8316e22fdc7ff7b483ceed5b",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/labels/000167.label",
+    "sha256": "08dff9d5ff5eda1444411e6c85f49a5247426ee780a60c40ca7cab6a6946a4c5",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/labels/000251.label",
+    "sha256": "6fcd358cee03581b49f84df640cf42757bc6e0fe3e2084b6b6bc0a22408644cc",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/labels/000335.label",
+    "sha256": "dadc6a396fa670eddf0c8a530b4dae6a1ad4fa946ce12f40810049d5021d069e",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/labels/000418.label",
+    "sha256": "a7bc53b11f0ac4a5f4a5f9978d819f42b5afdbe0eba8b5e3f4fc98c628b0e29a",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/labels/000502.label",
+    "sha256": "9de85baffef8ad12a06d6b34e2d3cf9bf667254541f65a75652a96e79fe8bc34",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/labels/000586.label",
+    "sha256": "079992138e291380f8899a8f9fd532e129c9d7e2f315f23572a126dde1aa2c70",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/labels/000669.label",
+    "sha256": "46e8954bcdc85fec9abbe2cd710057fb7b9d2b9cae3871177e2d5fc87d54be2d",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/labels/000753.label",
+    "sha256": "936ae30ebf4138a1530c9312fe0a30fd844c5f3857a84fcebe20f8e4dcb8c16e",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/labels/000837.label",
+    "sha256": "22b933afa60ab4011dbe15158a03be44d3719e78687c9026c01cd53c751ad088",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/labels/000921.label",
+    "sha256": "e0b7097ce333974c30fb372d03e78be25c94750eb3503af82133278f01e3c17f",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/labels/001004.label",
+    "sha256": "0f1e6a12dd5ed75b265bdac8894b7e517ff89ddf3ecbe1f16071258a70746094",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/labels/001088.label",
+    "sha256": "79b0aeca28d7d113f12e4c90410798c4e1cdf3c2e5264461a28d13c39f1bc4e5",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/labels/001172.label",
+    "sha256": "aa42737896226357b91292a649a590989f425de2e1cd135148edaeb0d89d8e18",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/labels/001255.label",
+    "sha256": "7d66922aa888159901ca52f14c4bc87a87f28afcbb6d39379c933d53cd814731",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/labels/001339.label",
+    "sha256": "9462c626753b1ad1e526e5b4ce93c31515d3e3d09f1e5504a00a23ca1122b0b4",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/labels/001423.label",
+    "sha256": "31fb6da84252a57cb727dd7ab0387d5e515b4267224f139a4f307d9796accf7c",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/labels/001506.label",
+    "sha256": "617fb9916f03f9a909ec725af854a3595dd30640287dc711e1a2670d291cc850",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/09/labels/001590.label",
+    "sha256": "09cbb044862386fb97146a65c8a4048b1847c45b259add7888e2a50df9542255",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/labels/000000.label",
+    "sha256": "dfd859bd52d1c6d227a2e57d992593d39a2783dbf5cda097cb7484c376d54d7d",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/labels/000063.label",
+    "sha256": "e041d037b7e08a5e4cd7fef97fbec945bc13279058fc61942a8ea030778d4573",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/labels/000126.label",
+    "sha256": "58e16ac7fae8435c75eeddec990420520631c723a4bfcd09e9320d82f64a232b",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/labels/000189.label",
+    "sha256": "9cf873097f68478516ed66fbf77ca914cced1a507b87ad71f0f95c1f9df31d47",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/labels/000253.label",
+    "sha256": "e8c31e3e97679c8c0769710951c9fe4bb181ec36a9c93f92766c7265a5ec5da5",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/labels/000316.label",
+    "sha256": "263abd1e85368b2ad19b320f0f899d04fb665bfdfde663e705d690850ce53d38",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/labels/000379.label",
+    "sha256": "58cf1abeb04efe4373a496f6f8a6ac06074ea1a41bddc8af8cb03fc16e681535",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/labels/000442.label",
+    "sha256": "d44c25a42748466eb8b90f5121169fc37ae568a7abab8542efbe254f6274947c",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/labels/000505.label",
+    "sha256": "3334baf344d46cccc36d9f1e9a95e3fc41272481629e543962bada2f3b4f80ab",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/labels/000568.label",
+    "sha256": "e7dec9cb85809d6ac375ff2175a60602877b19c34007525e41b4228474ea8123",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/labels/000632.label",
+    "sha256": "85316c7fed85052d255f460819c33e0b76e29578f937fe517e877fb729be220f",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/labels/000695.label",
+    "sha256": "4eedd3ac6ecd051312b4f72acfc84f798e1ca095d33fb3d76bca8767f085e5e2",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/labels/000758.label",
+    "sha256": "0c906a1504f720d9f94e249fb98ae52a08cbdc15d8dc2bd38446ca9463d400a7",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/labels/000821.label",
+    "sha256": "35cd3433d8f44e10ad50eb1af943cac486490842c11bb9fc34041ef17318b9a7",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/labels/000884.label",
+    "sha256": "04e28ad6afbb0a1841a01dbee5105edaf96340092ec478760c31b974e1e860e5",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/labels/000947.label",
+    "sha256": "560124429128c701fb03b7a7db17c7a842f67ff0a2021fe746816f8a8d4aaadd",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/labels/001011.label",
+    "sha256": "31347556358f3b21b763b81ffe0de30216e91a85cc6160f85e6cc5bcae84c55c",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/labels/001074.label",
+    "sha256": "ddf29b5c045d59bfc21a69332f889c6c7bfd9a6b7316b40aa63ec775d9601746",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/labels/001137.label",
+    "sha256": "c0a2c033d49b50c8cd919cfc104a2178925d7b4085acbcc327d6a0eae203f51e",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  },
+  {
+    "path": "data/dataset/sequences/10/labels/001200.label",
+    "sha256": "e5cc8b21f1dfb2fddf96894acb4e4b11e60d53a0ed0fb8f1828257b0b0942704",
+    "source": "https://www.semantic-kitti.org/assets/data_odometry_labels.zip"
+  }
+]

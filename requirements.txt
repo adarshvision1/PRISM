@@ -1,0 +1,11 @@
+numpy>=2.2,<3
+fastapi>=0.115,<1
+uvicorn>=0.34,<1
+PyYAML>=6,<7
+scipy>=1.15,<2
+psutil>=7,<8
+python-multipart>=0.0.20
+open3d>=0.20
+pillow>=12
+# Install CUDA PyTorch separately using the documented official wheel index.
+torch>=2.10

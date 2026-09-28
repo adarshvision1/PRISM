@@ -1,0 +1,17 @@
+.git
+.venv
+.pytest_cache
+**/__pycache__
+*.py[cod]
+.env
+.build
+.aws-build
+snapshots
+data/dataset
+data/blocks_cache
+data/blocks_cache_expanded
+data/evaluation_cache
+data/performance_trials
+data/jobs
+backend/model/weights/**/epoch_*.ckpt
+backend/model/weights/**/interim*.ckpt

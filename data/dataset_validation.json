@@ -1,0 +1,62 @@
+{
+  "status": "passed",
+  "paired_training_scans": 3839,
+  "training_points": 468885444,
+  "sequences": [
+    {
+      "sequence": "00",
+      "paired_scans": 434,
+      "points": 52777150
+    },
+    {
+      "sequence": "01",
+      "paired_scans": 384,
+      "points": 40636339
+    },
+    {
+      "sequence": "02",
+      "paired_scans": 412,
+      "points": 51787338
+    },
+    {
+      "sequence": "03",
+      "paired_scans": 386,
+      "points": 47872786
+    },
+    {
+      "sequence": "04",
+      "paired_scans": 271,
+      "points": 34069557
+    },
+    {
+      "sequence": "05",
+      "paired_scans": 408,
+      "points": 51045055
+    },
+    {
+      "sequence": "06",
+      "paired_scans": 384,
+      "points": 46987852
+    },
+    {
+      "sequence": "07",
+      "paired_scans": 384,
+      "points": 46577360
+    },
+    {
+      "sequence": "09",
+      "paired_scans": 380,
+      "points": 47257364
+    },
+    {
+      "sequence": "10",
+      "paired_scans": 396,
+      "points": 49874643
+    }
+  ],
+  "training_blocks": 20000,
+  "validation_blocks": 600,
+  "validation_sequences": [
+    "08"
+  ]
+}

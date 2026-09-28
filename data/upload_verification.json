@@ -1,0 +1,47 @@
+[
+  {
+    "format": "single.bin",
+    "frames": 1,
+    "status": "complete",
+    "processing_fps": 6.451021906395118,
+    "partial_observed": false,
+    "checkpoint": "0477455eae959ed28427e6da21c2228d30760611f44effee65d29ed4a2752e31",
+    "fixture": "synthetic parser fixture; not an accuracy evaluation"
+  },
+  {
+    "format": "single.ply",
+    "frames": 1,
+    "status": "complete",
+    "processing_fps": 2.0020304592901907,
+    "partial_observed": false,
+    "checkpoint": "0477455eae959ed28427e6da21c2228d30760611f44effee65d29ed4a2752e31",
+    "fixture": "synthetic parser fixture; not an accuracy evaluation"
+  },
+  {
+    "format": "single.pcd",
+    "frames": 1,
+    "status": "complete",
+    "processing_fps": 7.123638583642003,
+    "partial_observed": false,
+    "checkpoint": "0477455eae959ed28427e6da21c2228d30760611f44effee65d29ed4a2752e31",
+    "fixture": "synthetic parser fixture; not an accuracy evaluation"
+  },
+  {
+    "format": "sequence.zip",
+    "frames": 2,
+    "status": "complete",
+    "processing_fps": 6.142960827254006,
+    "partial_observed": true,
+    "checkpoint": "0477455eae959ed28427e6da21c2228d30760611f44effee65d29ed4a2752e31",
+    "fixture": "synthetic parser fixture; not an accuracy evaluation"
+  },
+  {
+    "format": "sequence.r3d",
+    "frames": 2,
+    "status": "complete",
+    "processing_fps": 9.465596107756362,
+    "partial_observed": false,
+    "checkpoint": "0477455eae959ed28427e6da21c2228d30760611f44effee65d29ed4a2752e31",
+    "fixture": "synthetic parser fixture; not an accuracy evaluation"
+  }
+]

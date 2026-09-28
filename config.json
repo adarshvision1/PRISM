@@ -1,0 +1,11 @@
+{
+  "checkpoint": "backend/model/weights/best.ckpt",
+  "interim_checkpoint": "backend/model/weights/interim.ckpt",
+  "device": "auto",
+  "inference_batch_size": 16,
+  "max_upload_mb": 500,
+  "max_frames": 300,
+  "uncertain_threshold": 0.5,
+  "input_points_per_block": 4096,
+  "far_points_per_block": 1024
+}

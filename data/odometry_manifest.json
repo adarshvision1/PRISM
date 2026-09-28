@@ -1,0 +1,22 @@
+[
+  {
+    "path": "data/dataset/sequences/00/poses.txt",
+    "url": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_poses.zip",
+    "sha256": "90791a4113df979b149fa9e1104e960ea59f525a8318a202dbb6aec1a3d88793"
+  },
+  {
+    "path": "data/dataset/sequences/08/poses.txt",
+    "url": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_poses.zip",
+    "sha256": "cd7177170c7d7ba98cdbfe9417f97bd9586da5c70cbd5ccefa5db6bf88a5fe88"
+  },
+  {
+    "path": "data/dataset/sequences/00/calib.txt",
+    "url": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_calib.zip",
+    "sha256": "1bb615b4535ac73053be176ac1650fcfe7678ae8225d8999e5a822aa71655682"
+  },
+  {
+    "path": "data/dataset/sequences/08/calib.txt",
+    "url": "https://s3.eu-central-1.amazonaws.com/avg-kitti/data_odometry_calib.zip",
+    "sha256": "5e7b3136edf2799be47e472ca9c5362fcacbee5d21c6ab8038506b8691b8b9ec"
+  }
+]

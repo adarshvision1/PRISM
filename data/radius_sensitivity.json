@@ -1,0 +1,17 @@
+{
+  "method": "Inference-time radius sensitivity using the same learned weights; not independently trained architecture trials. Selected training radii remain 0.25/0.5/1.0 m.",
+  "results": [
+    {
+      "radius_scale": 0.75,
+      "validation_block_miou": 0.7137903903691781
+    },
+    {
+      "radius_scale": 1.0,
+      "validation_block_miou": 0.715547370934599
+    },
+    {
+      "radius_scale": 1.5,
+      "validation_block_miou": 0.7082724654512627
+    }
+  ]
+}
