@@ -6,7 +6,7 @@
 
 Smart India Hackathon 2026 | **SIH26053** | Team **PERCEPTRONS11** | Team ID **163272**
 
-[Open the AWS prototype](https://d32vayd84aynlf.cloudfront.net/) · [Reviewer walkthrough](docs/evaluator-guide.md) · [Run locally](docs/quickstart.md) · [Measured evidence](docs/evidence.md)
+[Open the AWS prototype](https://d32vayd84aynlf.cloudfront.net/) · [Reviewer walkthrough](docs/evaluator-guide.md) · [Run locally](docs/quickstart.md) · [Measured evidence](docs/evidence.md) · [Development history](docs/development-history.md)
 
 PRISM turns LiDAR scans into a map of terrain, obstacles and measured surface heights. Two trained point-cloud models provide semantic predictions. An adaptive grid keeps small cells nearby and allocates larger cells farther away, with extra refinement where height or semantic composition changes.
 
